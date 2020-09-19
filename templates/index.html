@@ -1,0 +1,41 @@
+{% extends "bootstrap/base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block title %}
+Dashboard
+{% endblock %}
+
+{% block styles %}
+{{super()}}
+<link rel="stylesheet" href="{{url_for('.static', filename='dashboard.css')}}">
+{% endblock %}
+
+{% block content %}
+    
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-3 col-md-2 sidebar">
+          <ul class="nav nav-sidebar">
+            <li class="active"><a href="/loan">User<span class="sr-only">(current)</span></a></li>
+          </ul>
+        </div>
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+          <h1 class="page-header">Welcome</h1>
+
+  
+      <form class="form-signin" method="POST" action="/result">
+        <h2 class="form-signin-heading">Enter your information:</h2>
+        
+        
+        {{ wtf.form_field(form.a) }}        
+        {{ wtf.form_field(form.b) }}
+        {{ wtf.form_field(form.c) }}
+        {{ wtf.form_field(form.d) }}
+        {{ wtf.form_field(form.e) }}
+        
+        
+        
+        <button class="btn btn-lg btn-primary btn-block" type="submit">Enviar</button>
+      </form>
+{% endblock %}

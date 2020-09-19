@@ -1,0 +1,1101 @@
+TypeofCancer,Compound,CID,CAS,Trend,Sample,TypeofSampl,TypeofControl,Formula
+Colorectal,phenyl N-methylcarbamate,16034,1943-79-9,Decrease,in vivo,Blood samples from patients with colon-rectal cancer,Blood samples from healthy individuals,C8H9NO2
+Colorectal,2-ethylhexan-1-ol,7720,104-76-7,Decrease,in vivo,Blood samples from patients with colon-rectal cancer,Blood samples from healthy individuals,C8H18O
+Colorectal,"(3E,5Z)-6-tert-butyl-2,2,9,9-tetramethyldeca-3,5-dien-7-yne",5364982,-,Decrease,in vivo,Blood samples from patients with colon-rectal cancer,Blood samples from healthy individuals,C18H30
+Colorectal,character(0),-,character(0),Increase,in vivo,Blood samples from patients with colon-rectal cancer,Blood samples from healthy individuals,character(0)
+Colorectal,hexanal,6184,66-25-1,Decrease,in vivo,Urine samples from patients with colon cancer,Urine samples from healthy individuals,C6H12O
+Colorectal,heptanal,8130,111-71-7,Decrease,in vivo,Urine samples from patients with colon cancer,Urine samples from healthy individuals,C7H14O
+Colorectal,(Z)-2-methyl-3-phenylprop-2-enal,5354896,101-39-3,Increase,in vivo,Urine samples from patients with colon cancer,Urine samples from healthy individuals,C10H10O
+Colorectal,heptan-3-one,7802,106-35-4,Metabolized,in vivo,Urine samples from patients with colon cancer,Urine samples from healthy individuals,C7H14O
+Colorectal,"1,2,4-trimethylbenzene",7247,95-63-6,Increase,in vivo,Urine samples from patients with colon cancer,Urine samples from healthy individuals,C9H12
+Colorectal,1-methyl-4-propan-2-ylbenzene,7463,99-87-6,Increase,in vivo,Urine samples from patients with colon cancer,Urine samples from healthy individuals,C10H14
+Colorectal,"1,1,6-trimethyl-2H-naphthalene",121677,30364-38-6,Increase,in vivo,Urine samples from patients with colon cancer,Urine samples from healthy individuals,C13H16
+Colorectal,"1,4,5-trimethylnaphthalene",16478,2131-41-1,Increase,in vivo,Urine samples from patients with colon cancer,Urine samples from healthy individuals,C13H14
+Colorectal,anisole,7519,100-66-3,Increase,in vivo,Urine samples from patients with colon cancer,Urine samples from healthy individuals,C7H8O
+Colorectal,octan-1-ol,957,111-87-5,Decrease,in vivo,Urine samples from patients with colon cancer,Urine samples from healthy individuals,C8H18O
+Colorectal,4-methylphenol,2879,106-44-5,Increase,in vivo,Urine samples from patients with colon cancer,Urine samples from healthy individuals,C7H8O
+Colorectal,"1-methyl-4-propan-2-ylcyclohexa-1,4-diene",7461,99-85-4,Increase,in vivo,Urine samples from patients with colon cancer,Urine samples from healthy individuals,C10H16
+Colorectal,"4,7,7-trimethylbicyclo[2.2.1]hept-2-ene",10047,464-17-5,Increase,in vivo,Urine samples from patients with colon cancer,Urine samples from healthy individuals,C10H16
+Colorectal,(methyldisulfanyl)methane,12232,624-92-0,Decrease,in vivo,Urine samples from patients with colon cancer,Urine samples from healthy individuals,C2H6S2
+Colorectal,2-methoxythiophene,85610,16839-97-7,Increase,in vivo,Urine samples from patients with colon cancer,Urine samples from healthy individuals,C5H6OS
+Colorectal,"2,7-dimethylquinoline",7138,93-37-8,Increase,in vivo,Urine samples from patients with colon cancer,Urine samples from healthy individuals,C11H11N
+Colorectal,sulfane,402,04-06-7783,Increase,Faeces,Faeces samples from patients with colorectal cancer,Faeces samples from healthy individuals,H2S
+Colorectal,methylsulfanylmethane,1068,75-18-3,Increase,Faeces,Faeces samples from patients with colorectal cancer,Faeces samples from healthy individuals,C2H6S
+Colorectal,(methyldisulfanyl)methane,12232,624-92-0,Increase,Faeces,Faeces samples from patients with colorectal cancer,Faeces samples from healthy individuals,C2H6S2
+Colorectal,1-phenylbut-1-enylbenzene,519378,-,Increase,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C16H16
+Colorectal,"1,2-xylene;1,3-xylene;1,4-xylene",6850715,128686-03-3,Decrease,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C24H30
+Colorectal,2-amino-8-methyl-5-propan-2-ylazulene-1-carbonitrile,614282,-,Decrease,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C15H16N2
+Colorectal,1-iodononane,20275,4282-42-2,Increase,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C9H19I
+Colorectal,2-tert-butylsulfanylacetic acid,90460,24310-22-3,Decrease,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C6H12O2S
+Colorectal,[4-(4-cyanophenyl)phenyl] 4-(4-propylcyclohexyl)benzoate,615304,-,Decrease,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C29H29NO2
+Colorectal,nonanal,31289,124-19-6,-,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C9H18O
+Colorectal,decanal,8175,112-31-2,-,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C10H20O
+Colorectal,4-methylpentan-2-one,7909,108-10-1,-,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C6H12O
+Colorectal,2-methylbutane,6556,78-78-4,-,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C5H12
+Colorectal,4-methyloctane,16665,2216-34-4,Increase,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C9H20
+Colorectal,4-methylundecane,520454,-,-,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C12H26
+Colorectal,2-methylpentane,7892,107-83-5,-,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C6H14
+Colorectal,3-methylpentane,7282,96-14-0,-,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C6H14
+Colorectal,methylcyclopentane,7296,96-37-7,-,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C6H12
+Colorectal,cyclohexane,8078,110-82-7,Increase,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C6H12
+Colorectal,methylcyclohexane,7962,108-87-2,Increase,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C7H14
+Colorectal,character(0),-,character(0),-,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,character(0)
+Colorectal,"penta-1,2-diene",11588,591-95-7,Increase,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C5H8
+Colorectal,"1,2-xylene;1,3-xylene;1,4-xylene",6850715,128686-03-3,Increase,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C24H30
+Colorectal,"1,4-xylene",7809,106-42-3,-,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C6H4(CH3)2
+Colorectal,cyclohexanone,7967,108-94-1,Increase,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C6H10O
+Colorectal,dodecane,8182,112-40-3,Increase,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C12H26
+Colorectal,"2,2-dimethyldecane",28459,17302-37-3,Increase,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C12H26
+Colorectal,4-ethyloct-1-yn-3-ol,93012,5877-42-9,Increase,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C10H18O
+Colorectal,(E)-dodec-2-en-1-ol,5352845,69064-37-5,Increase,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C12H24O
+Colorectal,cyclooctylmethanol,77196,3637-63-6,Increase,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C9H18O
+Colorectal,N-ethylaniline,7670,103-69-5,Increase,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C8H11N
+Colorectal,"(3-hydroxy-2,4,4-trimethylpentyl) 2-methylpropanoate",551387,74367-34-3,Increase,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C12H24O3
+Colorectal,"(3E,5Z)-6-tert-butyl-2,2,9,9-tetramethyldeca-3,5-dien-7-yne",5364982,-,Decrease,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C18H30
+Colorectal,propan-2-one,180,67-64-1,Increase,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C3H6O
+Colorectal,ethyl acetate,8857,141-78-6,Increase,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C4H8O2
+Colorectal,ethanol,702,64-17-5,Decrease,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,CH3CH2OH
+Colorectal,4-methyloctane,16665,2216-34-4,Decrease,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C9H20
+Colorectal,nonan-2-one,13187,821-55-6,Produced,in vitro,SW 1116,Culture medium,C9H18O
+Colorectal,undecan-2-ol,15448,1653-30-1,Produced,in vitro,SW 1116,Culture medium,C11H24O
+Colorectal,3-methylbutan-1-ol,31260,123-51-3,Produced,in vitro,SW 1116,Culture medium,C5H12O
+Colorectal,heptan-1-ol,8129,111-70-6,Produced,in vitro,SW 1116,Culture medium,C7H16O
+Colorectal,3-methylbutan-1-ol,31260,123-51-3,Produced,in vitro,SW 1116,NCM460,C5H12O
+Colorectal,heptan-1-ol,8129,111-70-6,Produced,in vitro,SW 1116,NCM460,C7H16O
+Colorectal,octan-1-ol,957,111-87-5,Produced,in vitro,SW 1116,NCM460,C8H18O
+Colorectal,nonan-2-one,13187,821-55-6,Produced,in vitro,SW 480,Culture medium,C9H18O
+Colorectal,undecan-2-ol,15448,1653-30-1,Produced,in vitro,SW 480,Culture medium,C11H24O
+Colorectal,pentadecan-2-one,61303,2345-28-0,Produced,in vitro,SW 480,Culture medium,C15H30O
+Colorectal,octan-1-ol,957,111-87-5,Produced,in vitro,SW 480,Culture medium,C8H18O
+Colorectal,pentadecan-2-one,61303,2345-28-0,Produced,in vitro,SW 480,NCM460,C15H30O
+Colorectal,octan-1-ol,957,111-87-5,Produced,in vitro,SW 480,NCM460,C8H18O
+Colorectal,benzaldehyde,240,100-52-7,Metabolized,in vitro,SW 1116,Culture medium,C7H6O
+Colorectal,benzaldehyde,240,100-52-7,Metabolized,in vitro,SW 480,Culture medium,C7H6O
+Colorectal,decan-1-ol,8174,112-30-1,Metabolized,in vitro,SW 1116,Culture medium,C10H22O
+Colorectal,decan-1-ol,8174,112-30-1,Metabolized,in vitro,SW 480,Culture medium,C10H22O
+Colorectal,methyl dodecanoate,8139,111-82-0,Metabolized,in vitro,SW 1116,Culture medium,C13H26O2
+Colorectal,methyl dodecanoate,8139,111-82-0,Metabolized,in vitro,SW 480,Culture medium,C13H26O2
+Colorectal,benzaldehyde,240,100-52-7,Metabolized,in vitro,SW480,culture medium,C7H6O
+Colorectal,methyl dodecanoate,8139,111-82-0,Metabolized,in vitro,SW481,culture medium,C13H26O2
+Colorectal,decan-1-ol,8174,112-30-1,Metabolized,in vitro,SW482,culture medium,C10H22O
+Colorectal,nonan-2-one,13187,821-55-6,Produced,in vitro,SW483,culture medium,C9H18O
+Colorectal,pentadecan-2-one,61303,2345-28-0,Produced,in vitro,SW484,culture medium,C15H30O
+Colorectal,undecan-2-ol,15448,1653-30-1,Produced,in vitro,SW485,culture medium,C11H24O
+Colorectal,undecan-2-ol,15448,1653-30-1,Produced,in vitro,standard SW485,serum-free SW485,C11H24O
+Breast,"2,4-dimethylhept-1-ene",123385,19549-87-2,Increase,in vitro,"MCF-10a, MDA-231, MCF-7, SKBR-3, BT-474, ZR75-1",Culture medium,C9H18
+Breast,"1,2-xylene",7237,95-47-6,Increase,in vitro,"MCF-7, BT-474, ZR75-2",Culture medium,C6H4(CH3)2
+Breast,"1,2-xylene",7237,95-47-6,Decrease,in vitro,"MCF-10a, MDA-231, SKBR-3",Culture medium,C6H4(CH3)2
+Breast,"2,3-dimethylhexane",11447,584-94-1,Increase,in vitro,"MDA-231, MCF-7, SKBR-3",Culture medium,C8H18
+Breast,"2,2-dimethylbutane",6403,107-83-5,Increase,in vitro,"MCF-10a, MDA-231, MCF-7, SKBR-3, BT-474, ZR75-4",Culture medium,C6H14
+Breast,cyclohexanol,7966,108-93-0,Increase,in vitro,"MCF-7, SKBR-3, BT-474",Culture medium,C6H11OH
+Breast,cyclohexanol,7966,108-93-0,Decrease,in vitro,"MCF-10a, MDA-231",Culture medium,C6H11OH
+Breast,dodecan-2-one,22556,6175-49-1,Increase,in vitro,"MCF-7, ZR75-6",Culture medium,C12H24O
+Breast,nonan-2-one,13187,821-55-6,Increase,in vitro,"MCF-10a, MDA-231, MCF-7, SKBR-3, BT-474, ZR75-7",Culture medium,C9H18O
+Breast,4-methylheptan-2-one,94317,6137-06-0,Increase,in vitro,"MCF-10a, MDA-231, MCF-7, SKBR-3, BT-474, ZR75-8",Culture medium,C8H16O
+Breast,nonan-2-one,13187,821-55-6,Decrease,in vitro,"MDA-231, MCF-7, SKBR-3, ZR75-9",MCF-10a,C9H18O
+Breast,4-methylheptan-2-one,94317,6137-06-0,Decrease,in vitro,"MDA-231, MCF-7, SKBR-3, ZR75-9",MCF-10a,C8H16O
+Breast,nonan-2-one,13187,821-55-6,Increase,in vitro,BT-474,MCF-10a,C9H18O
+Breast,4-methylheptan-2-one,94317,6137-06-0,Increase,in vitro,BT-474,MCF-10a,C8H16O
+Breast,"2,5,6-trimethyloctane",545571,-,Increase,in vivo,Breath from patients with breast cancer,Breath from healthy individuals,C11H24
+Breast,"1,4-dimethoxybutane-2,3-diol",542383,-,Increase,in vivo,Breath from patients with breast cancer,Breath from healthy individuals,C6H14O4
+Breast,cyclohexanone,7967,108-94-1,Increase,in vivo,Breath from patients with breast cancer,Breath from healthy individuals,C6H10O
+Breast,"3,3-dimethylpentane",11229,562-49-2,Increase,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C7H16
+Breast,2-amino-8-methyl-5-propan-2-ylazulene-1-carbonitrile,614282,-,Decrease,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C15H16N2
+Breast,5-(2-methylpropyl)nonane,545936,-,Decrease,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C13H28
+Breast,"2,3,4-trimethyldecane",537769,-,Decrease,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C13H28
+Breast,6-ethyloctan-3-yl 2-(trifluoromethyl)benzoate,599417,-,Decrease,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C18H25F3O2
+Breast,nonane,8141,111-84-2,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C9H20
+Breast,5-methyltridecane,520182,-,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C14H30
+Breast,3-methylundecane,13845,1002-43-3,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C12H26
+Breast,6-methylpentadecane,24945,-,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C16H34
+Breast,2-methylpropane,6360,75-28-5,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C4H10
+Breast,3-methylnonadecane,94322,6418-45-7,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C20H42
+Breast,(4S)-4-methyldodecane,24884417,-,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C13H28
+Breast,2-methyloctane,18591,3221-61-2,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C9H20
+Breast,(E)-but-2-enoic acid,637090,107-93-7,Increase,in vitro,"T47D,SKBR-3, MDA-MB-231",normal human mammary cells (HMLE),C4H6O2
+Breast,(E)-oct-2-enoic acid,5282714,1470-50-4,Increase,in vitro,"T47D,SKBR-3, MDA-MB-232",normal human mammary cells (HMLE),C8H14O2
+Breast,(E)-4-hydroxynon-2-enal,5283344,29343-52-0,Increase,in vitro,"T47D,SKBR-3, MDA-MB-233",normal human mammary cells (HMLE),C9H16O2
+Breast,"methyl 2-[(1R,2R)-3-oxo-2-[(Z)-pent-2-enyl]cyclopentyl]acetate",5281929,20073-13-6,Increase,in vitro,"T47D,SKBR-3, MDA-MB-234",normal human mammary cells (HMLE),C13H20O3
+Breast,"4-[(1S,2S)-3-oxo-2-pentylcyclopentyl]butanoic acid",16061081,-,Increase,in vitro,"T47D,SKBR-3, MDA-MB-235",normal human mammary cells (HMLE),C14H24O3
+Breast,morpholine,8083,110-91-8,decrease,in vitro,"T47D,SKBR-3, MDA-MB-236",normal human mammary cells (HMLE),C4H9NO
+Breast,"2,4,5-trimethyl-2,5-dihydro-1,3-oxazole",31492,22694-96-8,decrease,in vitro,"T47D,SKBR-3, MDA-MB-237",normal human mammary cells (HMLE),C6H11NO
+Breast,4-(2-hydroxypropan-2-yl)cyclohexene-1-carboxylic acid,12313716,-,decrease,in vitro,"T47D,SKBR-3, MDA-MB-238",normal human mammary cells (HMLE),C10H16O3
+Breast,"(1E)-1-(2,6,6-trimethylcyclohex-2-en-1-yl)hepta-1,6-dien-3-one",5365976,79-78-7,decrease,in vitro,"T47D,SKBR-3, MDA-MB-239",normal human mammary cells (HMLE),C16H24O
+Breast,"[(E)-3-methyl-4-(2,6,6-trimethylcyclohex-2-en-1-yl)but-3-en-2-yl] acetate",6437467,68555-61-3,decrease,in vitro,"T47D,SKBR-3, MDA-MB-240",normal human mammary cells (HMLE),C16H26O2
+Breast,prop-2-enal,7847,107-02-8,Increase,in vitro,MCF-7,Solid residue left after centrifugation,CH2=CHCHO
+Breast,prop-2-enal,7847,107-02-8,Increase,in vitro,doxorubicin-resistant MCF-7,Solid residue left after centrifugation,CH2=CHCHO
+Breast,methane,297,74-82-8,Increase,in vitro,MCF-7,Solid residue left after centrifugation,CH4
+Breast,methane,297,74-82-8,Increase,in vitro,MCF-7,Upon treatment with anthracycline antitumor drugs,CH4
+Breast,hexanal,6184,66-25-1,Increase,in vivo,Breath samples from patients with lung cancer (NSCLC),Breath samples from healthy individuals,C6H12O
+Breast,heptanal,8130,111-71-7,Increase,in vivo,Breath samples from patients with lung cancer (NSCLC),Breath samples from healthy individuals,C7H14O
+Breast,octanal,454,124-13-0,Increase,in vivo,Breath samples from patients with lung cancer (NSCLC),Breath samples from healthy individuals,C8H16O
+Breast,nonanal,31289,124-19-6,Increase,in vivo,Breath samples from patients with lung cancer (NSCLC),Breath samples from healthy individuals,C9H18O
+Breast,1-phenylethanone,7410,98-86-2,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C8H8O
+Breast,"1-phenyl-2,3-dihydroquinazolin-4-one",607067,-,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C14H12N2O
+Breast,propan-2-ol,3776,67-63-0,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C3H8O
+Breast,heptanal,8130,111-71-7,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C7H14O
+Breast,propan-2-yl tetradecanoate,8042,110-27-0,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C17H34O2
+Breast,ethylidenecyclopropane,140404,18631-83-9,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C5H8
+Breast,"penta-1,4-diene",11587,591-93-5,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C5H8
+Breast,"2-methylbuta-1,3-diene",6557,78-79-5,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C5H8
+Breast,"2,2,4,4,6,6,8,8-octamethyl-1,3,5,7,2,4,6,8-tetraoxatetrasilocane",11169,556-67-2,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C8H24O4Si4
+Breast,ethyl tris(trimethylsilyl) silicate,624542,-,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C11H32O4Si4
+Breast,trimethylsilyl 4-methyl-2-trimethylsilyloxybenzoate,528664,-,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C14H24O3Si2
+Breast,(4R)-1-methyl-4-prop-1-en-2-ylcyclohexene,440917,5989-27-5,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C10H16
+Breast,1-methyl-5-prop-1-en-2-ylcyclohexene,102625,1461-27-4,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C10H16
+Breast,1-methyl-5-prop-1-en-2-ylcyclohexene,102625,1461-27-4,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C10H16
+Breast,"1,2,4,5-tetramethylbenzene",7269,95-93-2,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C10H14
+Breast,"1,2,3,5-tetramethylbenzene",10695,527-53-7,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C10H14
+Breast,"1-ethyl-3,5-dimethylbenzene",13627,934-74-7,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C10H14
+Breast,tridecane,12388,629-50-5,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C13H28
+Breast,dodecane,8182,112-40-3,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C12H26
+Breast,undecane,14257,1120-21-4,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C11H24
+Breast,"2,7,10-trimethyldodecane",93447,74645-98-0,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C15H32
+Breast,tridecane,12388,629-50-5,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C13H28
+Breast,tetradecane,12389,629-59-4,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C14H30
+Breast,tridecane,12388,629-50-5,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C13H28
+Breast,pentadecane,12391,629-62-9,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C15H32
+Breast,-,289151,475-20-7,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C15H24
+Breast,"1,1,7-trimethyl-4-methylidene-2,3,4a,5,6,7,7a,7b-octahydro-1aH-cyclopropa[e]azulene",91354,25246-27-9,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C15H24
+Breast,-,570529,-,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C15H24
+Breast,2-hexyloctan-1-ol,545551,19780-79-1,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C14H30O
+Breast,2-butyloctan-1-ol,19800,08-02-3913,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C12H26O
+Breast,"octadecyl 2,2,2-trifluoroacetate",522719,-,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C20H37F3O2
+Breast,"2,6-ditert-butylcyclohexa-2,5-diene-1,4-dione",12867,719-22-2,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C14H20O2
+Breast,"2,5-ditert-butylcyclohexa-2,5-diene-1,4-dione",17161,2460-77-7,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C14H20O2
+Breast,"[(7E)-2,6,6-trimethyl-3-methylidene-7-(3-oxobutylidene)oxepan-2-yl] acetate",5363907,-,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C16H24O4
+Breast,"1,1,2-trichloroethene",6575,79-01-6,Increase,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C2HCl3
+Breast,3-methylhexane,11507,589-34-4,Decrease,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C7H16
+Breast,(E)-dec-2-ene,5364559,20348-51-0,Decrease,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C10H20
+Breast,"(1R,4E,9S)-4,11,11-trimethyl-8-methylidenebicyclo[7.2.0]undec-4-ene",5281515,87-44-5,Decrease,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C15H24
+Breast,naphthalene,931,91-20-3,Decrease,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C10H8
+Breast,2-ethylhexan-1-ol,7720,104-76-7,Increase,in vitro,"T-47D,MDA-MB-231, MCF-7",HMEC,C8H18O
+Breast,cyclohexanol,7966,108-93-0,Increase,in vitro,"T-47D,MDA-MB-231, MCF-7",HMEC,C6H11OH
+Breast,pentan-2-one,7895,107-87-9,Produced,in vitro,"T-47D,MDA-MB-231, MCF-7",HMEC,C5H10O
+Breast,heptan-2-one,8051,110-43-0,Produced,in vitro,"T-47D,MDA-MB-231, MCF-7",HMEC,C7H14O
+Breast,3-methylbut-3-en-1-ol,12988,763-32-6,Produced,in vitro,"T-47D,MDA-MB-231, MCF-7",HMEC,C5H10O
+Breast,ethyl acetate,8857,141-78-6,Produced,in vitro,"T-47D,MDA-MB-231, MCF-7",HMEC,C4H8O2
+Breast,ethyl propanoate,7749,105-37-3,Produced,in vitro,"T-47D,MDA-MB-231, MCF-7",HMEC,C5H10O2
+Breast,2-methylbutanoic acid,8314,116-53-0,Produced,in vitro,"T-47D,MDA-MB-231, MCF-7",HMEC,
+Gastric and esophageal,propan-1-ol,1031,71-23-8,Increase,Ex vivo,Stomach tissue from patients with gastric cancer,Stomach tissue from healthy individuals,C3H8O
+Gastric and esophageal,butan-2-one,6569,78-93-3,Decrease,Ex vivo,Stomach tissue from patients with gastric cancer,Stomach tissue from healthy individuals,C4H8O
+Gastric and esophageal,pentan-2-one,7895,107-87-9,Decrease,Ex vivo,Stomach tissue from patients with gastric cancer,Stomach tissue from healthy individuals,C5H10O
+Gastric and esophageal,ethanol,702,64-17-5,Increase,Ex vivo,Stomach tissue from patients with gastric cancer,Stomach tissue from healthy individuals,CH3CH2OH
+Gastric and esophageal,2-ethylphenol,6997,90-00-6,Increase,in vivo,Breath from esophagogastric cancer patients,Breath samples from healthy individuals,C8H10O
+Gastric and esophageal,hexanoic acid,8892,142-62-1,Increase,in vivo,Breath from esophagogastric cancer patients,Breath samples from healthy individuals,C6H12O2
+Gastric and esophageal,2-methylphenol,335,95-48-7,Increase,in vivo,Breath from esophagogastric cancer patients,Breath samples from healthy individuals,C7H8O
+Gastric and esophageal,phenol,996,108-95-2,Increase,in vivo,Breath from esophagogastric cancer patients,Breath samples from healthy individuals,C6H6O
+Gastric and esophageal,propan-2-one,180,67-64-1,Decrease,in vivo,Breath from esophagogastric cancer patients,Breath samples from healthy individuals,C3H6O
+Gastric and esophageal,"2-methylbuta-1,3-diene",6557,78-79-5,Increase,in vivo,Breath from esophagogastric cancer patients,Breath samples from healthy individuals,C5H8
+Gastric and esophageal,methanol,887,67-56-1,Increase,in vivo,Breath from esophagogastric cancer patients,Breath samples from healthy individuals,CH4O
+Gastric and esophageal,acetaldehyde,177,75-07-0,Increase,in vivo,urine samples from gastro-esophageal cancer patients,urine samples from healthy individuals,C2H4O
+Gastric and esophageal,propan-2-one,180,67-64-1,Increase,in vivo,urine samples from gastro-esophageal cancer patients,urine samples from healthy individuals,C3H6O
+Gastric and esophageal,acetic acid,176,64-19-7,Increase,in vivo,urine samples from gastro-esophageal cancer patients,urine samples from healthy individuals,C2H4O2
+Gastric and esophageal,hexanoic acid,8892,142-62-1,Increase,in vivo,urine samples from gastro-esophageal cancer patients,urine samples from healthy individuals,C6H12O2
+Gastric and esophageal,sulfane,402,04-06-7783,Increase,in vivo,urine samples from gastro-esophageal cancer patients,urine samples from healthy individuals,H2S
+Gastric and esophageal,methanol,887,67-56-1,Increase,in vivo,urine samples from gastro-esophageal cancer patients,urine samples from healthy individuals,CH4O
+Gastric and esophageal,phenol,996,108-95-2,Decrease,in vivo,urine samples from gastro-esophageal cancer patients,urine samples from healthy individuals,C6H6O
+Gastric and esophageal,pentanoic acid,7991,109-52-4,Increase,in vivo,Breath samples from patients with gastric and esophageal adenocarcinoma,Breath samples from healthy individuals,C5H10O2
+Gastric and esophageal,hexanoic acid,8892,142-62-1,Increase,in vivo,Breath samples from patients with gastric and esophageal adenocarcinoma,Breath samples from healthy individuals,C6H12O2
+Gastric and esophageal,phenol,996,108-95-2,Increase,in vivo,Breath samples from patients with gastric and esophageal adenocarcinoma,Breath samples from healthy individuals,C6H6O
+Gastric and esophageal,2-methylphenol,335,95-48-7,Increase,in vivo,Breath samples from patients with gastric and esophageal adenocarcinoma,Breath samples from healthy individuals,C7H8O
+Gastric and esophageal,2-ethylphenol,6997,90-00-6,Increase,in vivo,Breath samples from patients with gastric and esophageal adenocarcinoma,Breath samples from healthy individuals,C8H10O
+Gastric and esophageal,butanal,261,123-72-8,Increase,in vivo,Breath samples from patients with gastric and esophageal adenocarcinoma,Breath samples from healthy individuals,C4H8O
+Gastric and esophageal,pentanal,8063,110-62-3,Increase,in vivo,Breath samples from patients with gastric and esophageal adenocarcinoma,Breath samples from healthy individuals,C5H10O
+Gastric and esophageal,hexanal,6184,66-25-1,Increase,in vivo,Breath samples from patients with gastric and esophageal adenocarcinoma,Breath samples from healthy individuals,C6H12O
+Gastric and esophageal,heptanal,8130,111-71-7,Increase,in vivo,Breath samples from patients with gastric and esophageal adenocarcinoma,Breath samples from healthy individuals,C7H14O
+Gastric and esophageal,octanal,454,124-13-0,Increase,in vivo,Breath samples from patients with gastric and esophageal adenocarcinoma,Breath samples from healthy individuals,C8H16O
+Gastric and esophageal,nonanal,31289,124-19-6,Increase,in vivo,Breath samples from patients with gastric and esophageal adenocarcinoma,Breath samples from healthy individuals,C9H18O
+Gastric and esophageal,decanal,8175,112-31-2,Increase,in vivo,Breath samples from patients with gastric and esophageal adenocarcinoma,Breath samples from healthy individuals,C10H20O
+Gastric and esophageal,5-methylheptan-3-one,7822,541-85-5,Produced,in vitro,MGC-803 gastric cancer cell line,GES-1 gastric mucous cells,C8H16O
+Gastric and esophageal,butan-2-one,6569,78-93-3,Produced,in vitro,MGC-803 gastric cancer cell line,GES-1 gastric mucous cells,C4H8O
+Gastric and esophageal,4-propan-2-yloxybutan-1-ol,537092,-,Decrease,in vitro,MGC-803 gastric cancer cell line,GES-1 gastric mucous cells,C7H16O2
+Gastric and esophageal,nonan-1-ol,8914,28473-21-4,Decrease,in vitro,MGC-803 gastric cancer cell line,GES-1 gastric mucous cells,C9H20O
+Gastric and esophageal,4-butoxybutan-1-ol,20111,-,Decrease,in vitro,MGC-803 gastric cancer cell line,GES-1 gastric mucous cells,C8H18O2
+Gastric and esophageal,propyl formate,8073,110-74-7,Metabolized,in vitro,MGC-803 gastric cancer cell line,GES-1 gastric mucous cells,C4H8O2
+Gastric and esophageal,"butane-1,4-diol",8064,110-63-4,Metabolized,in vitro,MGC-803 gastric cancer cell line,GES-1 gastric mucous cells,C4H10O2
+Gastric and esophageal,"2,6,11-trimethyldodecane",35768,31295-56-4,Metabolized,in vitro,MGC-803 gastric cancer cell line,GES-1 gastric mucous cells,C15H32
+Gastric and esophageal,5-methylheptan-3-one,7822,541-85-5,Increase,in vitro,MGC-803 gastric cancer cell line,culture medium,C8H16O
+Gastric and esophageal,butan-2-one,6569,78-93-3,Increase,in vitro,MGC-803 gastric cancer cell line,culture medium,C4H8O
+Gastric and esophageal,nonan-1-ol,8914,28473-21-4,Increase,in vitro,MGC-803 gastric cancer cell line,culture medium,C9H20O
+Gastric and esophageal,4-propan-2-yloxybutan-1-ol,537092,-,Increase,in vitro,MGC-803 gastric cancer cell line,culture medium,C7H16O2
+Gastric and esophageal,4-butoxybutan-1-ol,20111,-,Increase,in vitro,MGC-803 gastric cancer cell line,culture medium,C8H18O2
+Gastric and esophageal,prop-2-enenitrile,7855,107-13-1,Increase,in vivo,Breath samples from patients with gastric cancer,Breath samples from patients with gastric intestinal metaplasia,C3H3N
+Gastric and esophageal,furan-2-carbaldehyde,7362,98-01-1,Increase,in vivo,Breath samples from patients with gastric cancer,Breath samples from patients with gastric intestinal metaplasia,C5H4O2
+Gastric and esophageal,2-butoxyethanol,8133,111-76-2,Increase,in vivo,Breath samples from patients with gastric cancer,Breath samples from patients with gastric intestinal metaplasia,C6H14O2
+Gastric and esophageal,hexadecane,11006,544-76-3,Increase,in vivo,Breath samples from patients with gastric cancer,Breath samples from patients with gastric intestinal metaplasia,C16H34
+Gastric and esophageal,4-methyloctane,16665,2216-34-4,Increase,in vivo,Breath samples from patients with gastric cancer,Breath samples from patients with gastric intestinal metaplasia,C9H20
+Gastric and esophageal,"1,2,3-trimethylbenzene",10686,526-73-8,Increase,in vivo,Breath samples from patients with gastric cancer,Breath samples from patients with gastric intestinal metaplasia,C9H12
+Gastric and esophageal,prop-1-en-2-ylbenzene,7407,98-83-9,Increase,in vivo,Breath samples from patients with gastric cancer,Breath samples from patients with gastric intestinal metaplasia,C9H10
+Gastric and esophageal,butan-2-one,6569,78-93-3,Decrease,in vivo,Breath samples from patients with gastric cancer,Breath samples from patients with gastric intestinal metaplasia,C4H8O
+Gastric and esophageal,prop-2-enenitrile,7855,107-13-1,Increase,in vivo,Breath samples from patients with gastric cancer,Breath samples from patients with peptic ulcer disease,C3H3N
+Gastric and esophageal,furan-2-carbaldehyde,7362,98-01-1,Increase,in vivo,Breath samples from patients with gastric cancer,Breath samples from patients with peptic ulcer disease,C5H4O2
+Gastric and esophageal,2-butoxyethanol,8133,111-76-2,Increase,in vivo,Breath samples from patients with gastric cancer,Breath samples from patients with peptic ulcer disease,C6H14O2
+Gastric and esophageal,hexadecane,11006,544-76-3,Increase,in vivo,Breath samples from patients with gastric cancer,Breath samples from patients with peptic ulcer disease,C16H34
+Gastric and esophageal,4-methyloctane,16665,2216-34-4,Decrease,in vivo,Breath samples from patients with gastric cancer,Breath samples from patients with peptic ulcer disease,C9H20
+Gastric and esophageal,"1,2,3-trimethylbenzene",10686,526-73-8,Increase,in vivo,Breath samples from patients with gastric cancer,Breath samples from patients with peptic ulcer disease,C9H12
+Gastric and esophageal,prop-1-en-2-ylbenzene,7407,98-83-9,Increase,in vivo,Breath samples from patients with gastric cancer,Breath samples from patients with peptic ulcer disease,C9H10
+Gastric and esophageal,butan-2-one,6569,78-93-3,Decrease,in vivo,Breath samples from patients with gastric cancer,Breath samples from patients with peptic ulcer disease,C4H8O
+Gastric and esophageal,prop-2-enenitrile,7855,107-13-1,Increase,in vivo,Breath samples from patients with gastric cancer,Breath samples from patients with less severe gastric conditions,C3H3N
+Gastric and esophageal,2-butoxyethanol,8133,111-76-2,Decrease,in vivo,Breath samples from patients with gastric cancer,Breath samples from patients with less severe gastric conditions,C6H14O2
+Gastric and esophageal,furan-2-carbaldehyde,7362,98-01-1,Increase,in vivo,Breath samples from patients with gastric cancer,Breath samples from patients with less severe gastric conditions,C5H4O2
+Gastric and esophageal,6-methylhept-5-en-2-one,9862,409-02-9,Increase,in vivo,Breath samples from patients with gastric cancer,Breath samples from patients with less severe gastric conditions,C8H14O
+Gastric and esophageal,propan-2-one,180,67-64-1,Increase,in vivo,Breath samples from patients with early gastric cancer,Breath samples from healthy individuals,C3H6O
+Gastric and esophageal,"2-methylbuta-1,3-diene",6557,78-79-5,Decrease,in vivo,Breath samples from patients with advanced gastric cancer,Breath samples from healthy individuals,C5H8
+Gastric and esophageal,3-methylpentane,7282,96-14-0,Increase,in vivo,Breath samples from patients with advanced gastric cancer,Breath samples from healthy individuals,C6H14
+Gastric and esophageal,hexane,8058,110-54-3,Increase,in vivo,Breath samples from patients with advanced gastric cancer,Breath samples from healthy individuals,C6H14
+Gastric and esophageal,2-methylhexane,11582,591-76-4,Increase,in vivo,Breath samples from patients with advanced gastric cancer,Breath samples from healthy individuals,C7H16
+Gastric and esophageal,"2,3-dimethylpentane",11260,565-59-3,Increase,in vivo,Breath samples from patients with advanced gastric cancer,Breath samples from healthy individuals,C7H16
+Gastric and esophageal,3-methylhexane,11507,589-34-4,Increase,in vivo,Breath samples from patients with advanced gastric cancer,Breath samples from healthy individuals,C7H16
+Gastric and esophageal,5-methyl-2-propan-2-ylcyclohexan-1-ol,1254,1490-04-6,Decrease,in vivo,Breath samples from patients with advanced gastric cancer,Breath samples from healthy individuals,C10H20O
+Gastric and esophageal,dodecane,8182,112-40-3,Increase,in vivo,Breath samples from patients with advanced gastric cancer,Breath samples from healthy individuals,C12H26
+Gastric and esophageal,2-methylpentane,7892,107-83-5,Increase,in vivo,Breath samples from patients with early gastric cancer,Breath samples from healthy individuals,C6H14
+Gastric and esophageal,2-methylpentane,7892,107-83-5,Increase,in vivo,Breath samples from patients with advanced gastric cancer,Breath samples from healthy individuals,C6H14
+Gastric and esophageal,"2-methylbuta-1,3-diene",6557,78-79-5,Decrease,in vivo,Breath samples from patients with early gastric cancer,Breath samples from healthy individuals,C5H8
+Gastric and esophageal,3-methylpentane,7282,96-14-0,Increase,in vivo,Breath samples from patients with early gastric cancer,Breath samples from healthy individuals,C6H14
+Gastric and esophageal,hexane,8058,110-54-3,Increase,in vivo,Breath samples from patients with early gastric cancer,Breath samples from healthy individuals,C6H14
+Gastric and esophageal,"2,3-dimethylpentane",11260,565-59-3,Increase,in vivo,Breath samples from patients with early gastric cancer,Breath samples from healthy individuals,C7H16
+Gastric and esophageal,2-methylhexane,11582,591-76-4,Decrease,in vivo,Breath samples from patients with early gastric cancer,Breath samples from healthy individuals,C7H16
+Gastric and esophageal,"2,2-dimethylpropanoic acid",6417,75-98-9,Increase,in vivo,Breath samples from patients with early gastric cancer,Breath samples from healthy individuals,C5H10O2
+Gastric and esophageal,phenyl acetate,31229,122-79-2,Increase,in vivo,Breath samples from patients with early gastric cancer,Breath samples from healthy individuals,C8H8O2
+Gastric and esophageal,5-methyl-2-propan-2-ylcyclohexan-1-ol,1254,1490-04-6,Decrease,in vivo,Breath samples from patients with early gastric cancer,Breath samples from healthy individuals,C10H20O
+Gastric and esophageal,dodecane,8182,112-40-3,Increase,in vivo,Breath samples from patients with early gastric cancer,Breath samples from healthy individuals,C12H26
+Gastric and esophageal,tetradecane,12389,629-59-4,Increase,in vivo,Breath from patients with advanced gastric cancer,Breath samples from healthy individuals,C14H30
+Gastric and esophageal,tetradecane,12389,629-59-4,Increase,in vivo,Breath samples from patients with early gastric cancer,Breath samples from healthy individuals,C14H30
+Gastric and esophageal,propan-2-one,180,67-64-1,Decrease,in vivo,Breath samples from patients with advanced gastric cancer,Breath from patients with early gastric cancer,C3H6O
+Gastric and esophageal,"2-methylbuta-1,3-diene",6557,78-79-5,Decrease,in vivo,Breath samples from patients with advanced gastric cancer,Breath from patients with early gastric cancer,C5H8
+Gastric and esophageal,3-methylpentane,7282,96-14-0,Increase,in vivo,Breath samples from patients with advanced gastric cancer,Breath from patients with early gastric cancer,C6H14
+Gastric and esophageal,hexane,8058,110-54-3,Increase,in vivo,Breath samples from patients with advanced gastric cancer,Breath from patients with early gastric cancer,C6H14
+Gastric and esophageal,"2,3-dimethylpentane",11260,565-59-3,Increase,in vivo,Breath samples from patients with advanced gastric cancer,Breath from patients with early gastric cancer,C7H16
+Gastric and esophageal,2-methylhexane,11582,591-76-4,Increase,in vivo,Breath samples from patients with advanced gastric cancer,Breath from patients with early gastric cancer,C7H16
+Gastric and esophageal,"2,2-dimethylpropanoic acid",6417,75-98-9,Decrease,in vivo,Breath samples from patients with advanced gastric cancer,Breath from patients with early gastric cancer,C5H10O2
+Gastric and esophageal,phenyl acetate,31229,122-79-2,Decrease,in vivo,Breath samples from patients with advanced gastric cancer,Breath from patients with early gastric cancer,C8H8O2
+Gastric and esophageal,5-methyl-2-propan-2-ylcyclohexan-1-ol,1254,1490-04-6,Decrease,in vivo,Breath samples from patients with advanced gastric cancer,Breath from patients with early gastric cancer,C10H20O
+Gastric and esophageal,tetradecane,12389,629-59-4,Decrease,in vivo,Breath samples from patients with advanced gastric cancer,Breath from patients with early gastric cancer,C14H30
+Gastric and esophageal,3-methylhexane,11507,589-34-4,Increase,in vivo,Breath samples from patients with advanced gastric cancer,Breath from patients with early gastric cancer,C7H16
+Gastric and esophageal,propan-2-one,180,67-64-1,Increase,in vivo,gastric content from patients with gastro-esophageal cancer,gastric content from healthy individuals,C3H6O
+Gastric and esophageal,methane,297,74-82-8,Decrease,in vivo,gastric content from patients with gastro-esophageal cancer,gastric content from healthy individuals,CH4
+Gastric and esophageal,acetaldehyde,177,75-07-0,Increase,in vivo,gastric content from patients with gastro-esophageal cancer,gastric content from healthy individuals,C2H4O
+Gastric and esophageal,hexanoic acid,8892,142-62-1,Increase,in vivo,gastric content from patients with gastro-esophageal cancer,gastric content from healthy individuals,C6H12O2
+Gastric and esophageal,sulfane,402,04-06-7783,Increase,in vivo,gastric content from patients with gastro-esophageal cancer,gastric content from healthy individuals,H2S
+Gastric and esophageal,sulfane,402,04-06-7783,Increase,in vivo,gastric content from patients with gastro-esophageal cancer,gastric content from healthy individuals,H2S
+Gastric and esophageal,2-methylphenol,335,95-48-7,Increase,in vivo,gastric content from patients with gastro-esophageal cancer,gastric content from healthy individuals,C7H8O
+Head and neck,"4,6-dimethyldodecane",545627,-,-,in vivo,Breath from head-and-neck cancer patients,Breath samples from healthy individuals,C14H30
+Head and neck,5-methylhexan-3-one,12187,623-56-3,-,in vivo,Breath from head-and-neck cancer patients,Breath samples from healthy individuals,C7H14O
+Head and neck,"2,2-dimethyldecane",28459,17302-37-3,-,in vivo,Breath from head-and-neck cancer patients,Breath samples from healthy individuals,C12H26
+Head and neck,1-methyl-4-prop-1-en-2-ylcyclohexene,22311,138-86-3,-,in vivo,Breath from head-and-neck cancer patients,Breath samples from healthy individuals,C10H16
+Head and neck,"(2S)-2,3,3-trimethylbicyclo[2.2.1]heptane",91746524,-,-,in vivo,Breath from head-and-neck cancer patients,Breath samples from healthy individuals,C10H18
+Head and neck,azanium;acetate,517165,631-61-8,-,in vivo,Breath from head-and-neck cancer patients,Breath samples from patients with lung cancer,C2H7NO2
+Head and neck,3-methylhexane,11507,589-34-4,-,in vivo,Breath from head-and-neck cancer patients,Breath samples from patients with lung cancer,C7H16
+Head and neck,"2,4-dimethylheptane",16656,2213-23-2,-,in vivo,Breath from head-and-neck cancer patients,Breath samples from patients with lung cancer,C9H20
+Head and neck,4-methyloctane,16665,2216-34-4,-,in vivo,Breath from head-and-neck cancer patients,Breath samples from patients with lung cancer,C9H20
+Head and neck,"1,4-xylene",7809,106-42-3,-,in vivo,Breath from head-and-neck cancer patients,Breath samples from patients with lung cancer,C6H4(CH3)2
+Head and neck,"2,6,6-trimethyloctane",551285,-,-,in vivo,Breath from head-and-neck cancer patients,Breath samples from patients with lung cancer,C11H24
+Head and neck,3-methylnonane,22202,06-04-5911,-,in vivo,Breath from head-and-neck cancer patients,Breath samples from patients with lung cancer,C10H22
+Lung,2-tert-butylsulfanylacetic acid,90460,24310-22-3,Decrease,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C6H12O2S
+Lung,toluene,1140,108-88-3,Increase,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C6H5CH3
+Lung,dodecane,8182,112-40-3,Decrease,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C12H26
+Lung,"3,3-dimethylpentane",11229,562-49-2,Increase,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C7H16
+Lung,"2,3,4-trimethylhexane",13533,921-47-1,Increase,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C9H20
+Lung,"1-[2-cyclopenta-1,3-dien-1-yl-1-(4-phenylmethoxyphenyl)but-1-enyl]-4-phenylmethoxybenzene",102174370,-,Decrease,in vivo,Breath samples from patients with colorectal cancer,Breath samples from healthy individuals,C35H32O2
+Lung,styrene,7501,100-42-5,Increase,Breath,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H8
+Lung,decane,15600,124-18-5,Increase,Breath,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C10H22
+Lung,"2-methylbuta-1,3-diene",6557,78-79-5,Increase,Breath,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H8
+Lung,benzene,241,71-43-2,Increase,Breath,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H6
+Lung,undecane,14257,1120-21-4,Increase,Breath,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C11H24
+Lung,hex-1-ene,11597,592-41-6,Increase,Breath,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H12
+Lung,hexanal,6184,66-25-1,Increase,Breath,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H12O
+Lung,propylbenzene,7668,103-65-1,Increase,Breath,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H12
+Lung,"1,2,4-trimethylbenzene",7247,95-63-6,Increase,Breath,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H12
+Lung,heptanal,8130,111-71-7,Increase,Breath,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H14O
+Lung,methylcyclopentane,7296,96-37-7,Increase,Breath,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H12
+Lung,butan-2-one,6569,78-93-3,Increase,in vitro,A549,OUS11; WI-38 VA13; Culture medium,C4H8O
+Lung,pentan-2-one,7895,107-87-9,Increase,in vitro,A549,OUS11; WI-38 VA13; Culture medium,C5H10O
+Lung,hexan-2-one,11583,591-78-6,Increase,in vitro,A549,OUS11; WI-38 VA13; Culture medium,C6H12O
+Lung,1-phenylethanone,7410,98-86-2,Increase,in vitro,A549,OUS11; WI-38 VA13; Culture medium,C8H8O
+Lung,phenol,996,108-95-2,Increase,in vitro,A549,OUS11; WI-38 VA13; Culture medium,C6H6O
+Lung,dimethyl butanedioate,7820,106-65-0,Increase,in vitro,A549,OUS11; WI-38 VA13; Culture medium,C6H10O4
+Lung,butan-2-one,6569,78-93-3,Increase,in vivo,Urine samples from tumor-bearing mice,Urine samples from healthy mice,C4H8O
+Lung,pentan-2-one,7895,107-87-9,Increase,in vivo,Urine samples from tumor-bearing mice,Urine samples from healthy mice,C5H10O
+Lung,hexan-2-one,11583,591-78-6,Increase,in vivo,Urine samples from tumor-bearing mice,Urine samples from healthy mice,C6H12O
+Lung,2-methylpyrazine,7976,109-08-0,Increase,in vivo,Urine samples from tumor-bearing mice,Urine samples from healthy mice,C5H6N2
+Lung,dimethyl butanedioate,7820,106-65-0,Increase,in vivo,Urine samples from tumor-bearing mice,Urine samples from healthy mice,C6H10O4
+Lung,1-phenylethanone,7410,98-86-2,Increase,in vivo,Urine samples from tumor-bearing mice,Urine samples from healthy mice,C8H8O
+Lung,phenol,996,108-95-2,Increase,in vivo,Urine samples from tumor-bearing mice,Urine samples from healthy mice,C6H6O
+Lung,2-methylpent-1-ene,12986,763-29-1,Increase,in vitro,A549,Culture medium,C6H12
+Lung,octane,356,111-65-9,Increase,in vitro,A549,Culture medium,C8H18
+Lung,"2,4-dimethylhept-1-ene",123385,19549-87-2,Increase,in vitro,A549,Culture medium,C9H18
+Lung,ethanol,702,64-17-5,Increase,in vitro,A549,Culture medium,CH3CH2OH
+Lung,2-methoxy-2-methylpropane,15413,1634-04-4,Increase,in vitro,A549,Culture medium,(CH3)3COCH3
+Lung,2-ethoxy-2-methylpropane,12512,637-92-3,Increase,in vitro,A549,Culture medium,C6H14O
+Lung,propan-2-one,180,67-64-1,Increase,in vitro,A549,Culture medium,C3H6O
+Lung,pentan-2-one,7895,107-87-9,Increase,in vitro,A549,Culture medium,C5H10O
+Lung,butyl acetate,31272,123-86-4,Decrease,in vitro,A549,Culture medium,C6H12O2
+Lung,2-methylprop-2-enal,6562,4170-30-3,Decrease,in vitro,A549,Culture medium,C4H6O
+Lung,2-methylpropanal,6561,78-84-2,Decrease,in vitro,A549,Culture medium,C4H8O
+Lung,2-methylidenebutanal,70203,922-63-4,Decrease,in vitro,A549,Culture medium,C5H8O
+Lung,(E)-2-methylbut-2-enal,5321950,497-03-0,Decrease,in vitro,A549,Culture medium,C5H8O
+Lung,3-methylbutanal,11552,590-86-3,Decrease,in vitro,A549,Culture medium,C5H10O
+Lung,1H-pyrrole,8027,16199-06-7,Decrease,in vitro,A549,Culture medium,C4H5N
+Lung,"2,3,3-trimethylpentane",11215,560-21-4,Increase,in vitro,CALU-1,Culture medium,C8H18
+Lung,"2,3,5-trimethylhexane",14045,1069-53-0,Increase,in vitro,CALU-1,Culture medium,C9H20
+Lung,"2,4-dimethylheptane",16656,2213-23-2,Increase,in vitro,CALU-1,Culture medium,C9H20
+Lung,4-methyloctane,16665,2216-34-4,Increase,in vitro,CALU-1,Culture medium,C9H20
+Lung,acetaldehyde,177,75-07-0,Decrease,in vitro,CALU-1,Culture medium,C2H4O
+Lung,acetonitrile,6342,75-05-8,Decrease,in vitro,CALU-1,Culture medium,C2H3N
+Lung,prop-2-enal,7847,107-02-8,Decrease,in vitro,CALU-1,Culture medium,CH2=CHCHO
+Lung,2-methylprop-2-enal,6562,4170-30-3,Decrease,in vitro,CALU-1,Culture medium,C4H6O
+Lung,2-methylpropanal,6561,78-84-2,Decrease,in vitro,CALU-1,Culture medium,C4H8O
+Lung,butan-2-one,6569,78-93-3,Decrease,in vitro,CALU-1,Culture medium,C4H8O
+Lung,2-methoxy-2-methylpropane,15413,1634-04-4,Decrease,in vitro,CALU-1,Culture medium,(CH3)3COCH3
+Lung,3-methylbutanal,11552,590-86-3,Decrease,in vitro,CALU-1,Culture medium,C5H10O
+Lung,(E)-2-methylbut-2-enal,5321950,497-03-0,Decrease,in vitro,CALU-1,Culture medium,C5H8O
+Lung,2-ethoxy-2-methylpropane,12512,637-92-3,Decrease,in vitro,CALU-1,Culture medium,C6H14O
+Lung,hexanal,6184,66-25-1,Decrease,in vitro,CALU-1,Culture medium,C6H12O
+Lung,butyl acetate,31272,123-86-4,Decrease,in vitro,CALU-1,Culture medium,C6H12O2
+Lung,decanal,8175,112-31-2,Decrease,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,Culture medium,C10H20O
+Lung,decanal,8175,112-31-2,Increase,in vitro,H774; H69; H187; H526,Culture medium,C10H20O
+Lung,decanal,8175,112-31-2,Decrease,in vitro,IBE/ immortal bronchial epithelium,Culture medium,C10H20O
+Lung,6-methylhept-5-en-2-one,9862,409-02-9,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,Culture medium,C8H14O
+Lung,6-methylhept-5-en-2-one,9862,409-02-9,Decrease,in vitro,H774; H69; H187; H526,Culture medium,C8H14O
+Lung,"2,4-ditert-butylphenol",7311,96-76-4,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,Culture medium,C14H22O
+Lung,"1,3-ditert-butylbenzene",136810,1014-60-4,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,Culture medium,C14H22
+Lung,"1,3-ditert-butylbenzene",136810,1014-60-4,Decrease,in vitro,H774; H69; H187; H526,Culture medium,C14H22
+Lung,styrene,7501,100-42-5,Increase,in vitro,H774; H69; H187; H526,Culture medium,C8H8
+Lung,styrene,7501,100-42-5,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,Culture medium,C8H8
+Lung,decanal,8175,112-31-2,Decrease,in vitro,LC,IBE(immortal bronchial epithelium),C10H20O
+Lung,6-methylhept-5-en-2-one,9862,409-02-9,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,Culture medium,C8H14O
+Lung,"2,4-ditert-butylphenol",7311,96-76-4,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,Culture medium,C14H22O
+Lung,2-ethylhexan-1-ol,7720,104-76-7,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,culture medium,C8H18O
+Lung,"1,3-ditert-butylbenzene",136810,1014-60-4,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,culture medium,C14H22
+Lung,styrene,7501,100-42-5,increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,Culture medium,C8H8
+Lung,nonanal,31289,124-19-6,Decrease,in vitro,H774; H69; H187; H526,Culture medium,C9H18O
+Lung,tetradecane,12389,629-59-4,Decrease,in vitro,H774; H69; H187; H526,culture medium,C14H30
+Lung,5-methyltridecane,520182,-,Decrease,in vitro,H774; H69; H187; H526,culture medium,C14H30
+Lung,6-methylhept-5-en-2-one,9862,409-02-9,Decrease,in vitro,H774; H69; H187; H526,culture medium,C8H14O
+Lung,1-phenylethanone,7410,98-86-2,Increase,in vitro,H774; H69; H187; H526,culture medium,C8H8O
+Lung,2-ethylhexan-1-ol,7720,104-76-7,Decrease,in vitro,H774; H69; H187; H526,culture medium,C8H18O
+Lung,"1,3-ditert-butylbenzene",136810,1014-60-4,Decrease,in vitro,H774; H69; H187; H526,culture medium,C14H22
+Lung,"1,2-xylene;1,3-xylene;1,4-xylene",6850715,128686-03-3,Decrease,in vitro,H774; H69; H187; H526,culture medium,C24H30
+Lung,styrene,7501,100-42-5,increase,in vitro,H774; H69; H187; H526,culture medium,C8H8
+Lung,benzaldehyde,240,100-52-7,Decrease,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,H774; H69; H187; H526,C7H6O
+Lung,nonanal,31289,124-19-6,increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,H774; H69; H187; H526,C9H18O
+Lung,decanal,8175,112-31-2,Decrease,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,H774; H69; H187; H526,C10H20O
+Lung,tetradecane,12389,629-59-4,increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,H774; H69; H187; H526,C14H30
+Lung,5-methyltridecane,520182,-,increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,H774; H69; H187; H526,C14H30
+Lung,6-methylhept-5-en-2-one,9862,409-02-9,increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,H774; H69; H187; H526,C8H14O
+Lung,1-phenylethanone,7410,98-86-2,Decrease,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,H774; H69; H187; H526,C8H8O
+Lung,"2,4-ditert-butylphenol",7311,96-76-4,Decrease,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,H774; H69; H187; H526,C14H22O
+Lung,2-ethylhexan-1-ol,7720,104-76-7,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,H774; H69; H187; H526,C8H18O
+Lung,"1,3-ditert-butylbenzene",136810,1014-60-4,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,H774; H69; H187; H526,C14H22
+Lung,"1,2-xylene;1,3-xylene;1,4-xylene",6850715,128686-03-3,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,H774; H69; H187; H526,C24H30
+Lung,styrene,7501,100-42-5,Decrease,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3; HCC95; HCC15; H226; NE18,H774; H69; H187; H526,C8H8
+Lung,decanal,8175,112-31-2,Decrease,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3,Culture medium,C10H20O
+Lung,6-methylhept-5-en-2-one,9862,409-02-9,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3,Culture medium,C8H14O
+Lung,"2,4-ditert-butylphenol",7311,96-76-4,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3,Culture medium,C14H22O
+Lung,2-ethylhexan-1-ol,7720,104-76-7,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3,Culture medium,C8H18O
+Lung,"1,3-ditert-butylbenzene",136810,1014-60-4,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3,Culture medium,C14H22
+Lung,"1,2-xylene;1,3-xylene;1,4-xylene",6850715,128686-03-3,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3,Culture medium,C24H30
+Lung,styrene,7501,100-42-5,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3,Culture medium,C8H8
+Lung,benzaldehyde,240,100-52-7,Decrease,in vitro,HCC95; HCC15; H226; NE18,Culture medium,C7H6O
+Lung,nonanal,31289,124-19-6,Decrease,in vitro,HCC95; HCC15; H226; NE18,Culture medium,C9H18O
+Lung,decanal,8175,112-31-2,Decrease,in vitro,HCC95; HCC15; H226; NE18,Culture medium,C10H20O
+Lung,5-methyltridecane,520182,-,Decrease,in vitro,HCC95; HCC15; H226; NE18,Culture medium,C14H30
+Lung,"2,4-ditert-butylphenol",7311,96-76-4,Increase,in vitro,HCC95; HCC15; H226; NE18,Culture medium,C14H22O
+Lung,2-ethylhexan-1-ol,7720,104-76-7,Decrease,in vitro,HCC95; HCC15; H226; NE18,Culture medium,C8H18O
+Lung,"1,2-xylene;1,3-xylene;1,4-xylene",6850715,128686-03-3,Decrease,in vitro,HCC95; HCC15; H226; NE18,Culture medium,C24H30
+Lung,benzaldehyde,240,100-52-7,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3,HCC95; HCC15; H226; NE18,C7H6O
+Lung,nonanal,31289,124-19-6,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3,HCC95; HCC15; H226; NE18,C9H18O
+Lung,5-methyltridecane,520182,-,increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3,HCC95; HCC15; H226; NE18,C14H30
+Lung,6-methylhept-5-en-2-one,9862,409-02-9,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3,HCC95; HCC15; H226; NE18,C8H14O
+Lung,1-phenylethanone,7410,98-86-2,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3,HCC95; HCC15; H226; NE18,C8H8O
+Lung,2-ethylhexan-1-ol,7720,104-76-7,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3,HCC95; HCC15; H226; NE18,C8H18O
+Lung,"1,3-ditert-butylbenzene",136810,1014-60-4,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3,HCC95; HCC15; H226; NE18,C14H22
+Lung,"1,2-xylene;1,3-xylene;1,4-xylene",6850715,128686-03-3,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3,HCC95; HCC15; H226; NE18,C24H30
+Lung,styrene,7501,100-42-5,Increase,in vitro,H1650; H820; A549; H2009; H1975; H4006; H1435; Calu-3,HCC95; HCC15; H226; NE18,C8H8
+Lung,2-methylprop-2-enal,6562,4170-30-3,Decrease,in vitro,NCIH1666,Culture medium,C4H6O
+Lung,3-methylbutanal,11552,590-86-3,Decrease,in vitro,NCIH1666,Culture medium,C5H10O
+Lung,hexanal,6184,66-25-1,Decrease,in vitro,NCIH1666,Culture medium,C6H12O
+Lung,butyl acetate,31272,123-86-4,Decrease,in vitro,NCIH1666,Culture medium,C6H12O2
+Lung,2-methoxy-2-methylpropane,15413,1634-04-4,Decrease,in vitro,NCIH1666,Culture medium,(CH3)3COCH3
+Lung,2-ethoxy-2-methylpropane,12512,637-92-3,Decrease,in vitro,NCIH1666,Culture medium,C6H14O
+Lung,hexanal,6184,66-25-1,Increase,in vivo,Blood samples from patients with lung cancer,Blood samples from healthy individuals,C6H12O
+Lung,heptanal,8130,111-71-7,Increase,in vivo,Blood samples from patients with lung cancer,Blood samples from healthy individuals,C7H14O
+Lung,propanal,527,123-38-6,Increase,in vivo,Breath samples from patients with non-small cell lung cancer (NSCLC),Breath samples from healthy individuals,C3H6O
+Lung,butanal,261,123-72-8,Increase,in vivo,Breath samples from patients with non-small cell lung cancer (NSCLC),Breath samples from healthy individuals,C4H8O
+Lung,pentanal,8063,110-62-3,Increase,in vivo,Breath samples from patients with non-small cell lung cancer (NSCLC),Breath samples from healthy individuals,C5H10O
+Lung,hexanal,6184,66-25-1,Increase,in vivo,Breath samples from patients with non-small cell lung cancer (NSCLC),Breath samples from healthy individuals,C6H12O
+Lung,heptanal,8130,111-71-7,Increase,in vivo,Breath samples from patients with non-small cell lung cancer (NSCLC),Breath samples from healthy individuals,C7H14O
+Lung,octanal,454,124-13-0,Increase,in vivo,Breath samples from patients with non-small cell lung cancer (NSCLC),Breath samples from healthy individuals,C8H16O
+Lung,nonanal,31289,124-19-6,Increase,in vivo,Breath samples from patients with non-small cell lung cancer (NSCLC),Breath samples from healthy individuals,C9H18O
+Lung,butane,7843,106-97-8,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H10
+Lung,3-methyltridecane,110848,6418-41-3,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C14H30
+Lung,7-methyltridecane,33588,26730-14-3,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C14H30
+Lung,4-methyloctane,16665,2216-34-4,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H20
+Lung,3-methylhexane,11507,589-34-4,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H16
+Lung,heptane,8900,142-82-5,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H16
+Lung,2-methylhexane,11582,591-76-4,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H16
+Lung,pentane,8003,109-66-0,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H12
+Lung,5-methyldecane,93071,13151-35-4,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C11H24
+Lung,propan-1-ol,1031,71-23-8,Increase,in vitro,NCI-H2087 cells,Culture medium,C3H8O
+Lung,pentane,8003,109-66-0,increase,in vitro,NCI-H2087 cells,culture medium,C5H12
+Lung,2-methylpropanal,6561,78-84-2,decrease,in vitro,NCI-H2087 cells,culture medium,C4H8O
+Lung,butan-2-one,6569,78-93-3,increase,in vitro,NCI-H2087 cells,culture medium,C4H8O
+Lung,"2,3-dimethylbutane",6589,107-83-5,increase,in vitro,NCI-H2087 cells,culture medium,C6H14
+Lung,2-methylpentane,7892,107-83-5,increase,in vitro,NCI-H2087 cells,culture medium,C6H14
+Lung,3-methylpentane,7282,96-14-0,increase,in vitro,NCI-H2087 cells,culture medium,C6H14
+Lung,hexane,8058,110-54-3,increase,in vitro,NCI-H2087 cells,culture medium,C6H14
+Lung,3-methylbutanal,11552,590-86-3,decrease,in vitro,NCI-H2087 cells,culture medium,C5H10O
+Lung,2-methylbutanal,7284,96-17-3,decrease,in vitro,NCI-H2087 cells,culture medium,C5H10O
+Lung,butyl acetate,31272,123-86-4,decrease,in vitro,NCI-H2087 cells,culture medium,C6H12O2
+Lung,"2,3,4-trimethylpentane",11269,565-75-3,increase,in vitro,NCI-H2087 cells,culture medium,C8H18
+Lung,"2,3,3-trimethylpentane",11215,560-21-4,increase,in vitro,NCI-H2087 cells,culture medium,C8H18
+Lung,4-methylheptane,11512,589-53-7,increase,in vitro,NCI-H2087 cells,Culture medium,C8H18
+Lung,"2,4-dimethylheptane",16656,2213-23-2,increase,in vitro,NCI-H2087 cells,Culture medium,C9H20
+Lung,"2,4-dimethylhept-1-ene",123385,19549-87-2,increase,in vitro,NCI-H2087 cells,Culture medium,C9H18
+Lung,"2,3-dimethylheptane",26375,3074-71-3,increase,in vitro,NCI-H2087 cells,Culture medium,C9H20
+Lung,4-methyloctane,16665,2216-34-4,increase,in vitro,NCI-H2087 cells,Culture medium,C9H20
+Lung,2-ethylhexan-1-ol,7720,104-76-7,increase,in vitro,NCI-H2087 cells,Culture medium,C8H18O
+Lung,pentanal,8063,110-62-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H10O
+Lung,hexanal,6184,66-25-1,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H12O
+Lung,octanal,454,124-13-0,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H16O
+Lung,nonanal,31289,124-19-6,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H18O
+Lung,heptanal,8130,111-71-7,Increase,in vivo,Blood samples from patients with lung cancer,Blood samples from healthy individuals,C7H14O
+Lung,hexanal,6184,66-25-1,Increase,in vivo,Blood samples from patients with lung cancer,Blood samples from healthy individuals,C6H12O
+Lung,heptanal,8130,111-71-7,Increase,in vivo,Blood samples from patients with lung cancer,Blood samples from healthy individuals,C7H14O
+Lung,hexanal,6184,66-25-1,Increase,in vivo,Blood samples from patients with lung cancer,Blood samples from healthy individuals,C6H12O
+Lung,2-ethylhexan-1-ol,7720,104-76-7,-,in vivo,Saliva samples from patients with lung cancer,Saliva samples from healthy individuals,C8H18O
+Lung,propan-1-ol,1031,71-23-8,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H8O
+Lung,methane,297,74-82-8,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,CH4
+Lung,propan-1-ol,1031,71-23-8,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H8O
+Lung,propan-2-ol,3776,67-63-0,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H8O
+Lung,propanal,527,123-38-6,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H6O
+Lung,methane,297,74-82-8,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,CH4
+Lung,hexanal,6184,66-25-1,Increase,in vivo,Blood samples from patients with lung cancer,Blood samples from healthy individuals,C6H12O
+Lung,heptanal,8130,111-71-7,Increase,in vivo,Blood samples from patients with lung cancer,Blood samples from healthy individuals,C7H14O
+Lung,acetaldehyde,177,75-07-0,Increase,in vitro,Calu-1,culture medium,C2H4O
+Lung,acetaldehyde,177,75-07-0,Increase,in vitro,Calu-1,culture medium,C2H4O
+Lung,acetaldehyde,177,75-07-0,Increase,in vitro,SK-MES,culture medium,C2H4O
+Lung,acetaldehyde,177,75-07-0,decrease,in vitro,A549,culture medium,C2H4O
+Lung,butanal,261,123-72-8,decrease,in vitro,A549,culture medium,C4H8O
+Lung,pentanal,8063,110-62-3,decrease,in vitro,A549,culture medium,C5H10O
+Lung,hexanal,6184,66-25-1,decrease,in vitro,A549,culture medium,C6H12O
+Lung,heptanal,8130,111-71-7,decrease,in vitro,A549,culture medium,C7H14O
+Lung,acetaldehyde,177,75-07-0,decrease,in vitro,EPLC,culture medium,C2H4O
+Lung,pentanal,8063,110-62-3,decrease,in vitro,EPLC,culture medium,C5H10O
+Lung,acetaldehyde,177,75-07-0,Increase,in vitro - 3D,Calu-1,culture medium,C2H4O
+Lung,acetaldehyde,177,75-07-0,Increase,in vitro - 3D,Calu-1,NL20,C2H4O
+Lung,(4-hydroxyphenyl)phosphonic acid,214694,33795-18-5,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C6H7O4P
+Lung,1-ethyl-4-(2-methylpropyl)benzene,576929,-,Decrease,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C12H18
+Lung,phenol,996,108-95-2,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C6H6O
+Lung,2-ethenylfuran,73881,1487-18-9,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C6H6O
+Lung,styrene,7501,100-42-5,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C8H8
+Lung,cyclooctatetraene,637866,629-20-9,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C8H8
+Lung,"bicyclo[4.2.0]octa-1,3,5-triene",69667,694-87-1,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C8H8
+Lung,2-methylpentan-2-ylbenzene,16136,1985-57-5,Decrease,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C12H18
+Lung,"1,3-di(propan-2-yl)benzene",7450,99-62-7,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C12H18
+Lung,2-ethyloxirane,7834,106-88-7,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C4H8O
+Lung,oxolane,8028,109-99-9,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C4H8O
+Lung,"1,4-dimethyl-2-(2-methylpropyl)benzene",41508,55669-88-0,Decrease,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C12H18
+Lung,4-ethylbenzaldehyde,20861,4748-78-1,Decrease,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C9H10O
+Lung,"2,5-dimethylbenzaldehyde",22015,5779-94-2,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C9H10O
+Lung,prop-1-en-2-ylbenzene,7407,98-83-9,Decrease,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C9H10
+Lung,"1-butan-2-yl-2,4-dimethylbenzene",15141,1483-60-9,Decrease,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C12H18
+Lung,naphthalene,931,91-20-3,Decrease,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C10H8
+Lung,azulene,9231,275-51-4,Decrease,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C10H8
+Lung,1-methylideneindene,75581,2471-84-3,Decrease,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C10H8
+Lung,(3E)-3-prop-2-enylidenecyclobutene,5368360,52097-85-5,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C7H8
+Lung,"1,2,4-trimethyl-5-propan-2-ylbenzene",66294,10222-95-4,Decrease,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C12H18
+Lung,"1,2,3,4-tetrahydronaphthalene",8404,119-64-2,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C10H12
+Lung,"cyclohepta-1,3,5-triene",11000,544-25-2,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C7H8
+Lung,methyl benzoate,7150,93-58-3,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C8H8O2
+Lung,2-hydroxy-1-phenylethanone,68490,582-24-1,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C8H8O2
+Lung,benzohydrazide,11955,613-94-5,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C7H8N2O
+Lung,1-ethyl-3-methyl-5-propylcyclohexane,549940,-,Decrease,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C12H24
+Lung,1-tert-butyl-3-ethylbenzene,139753,14411-56-4,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C12H18
+Lung,"2-methyl-2,3-dihydro-1-benzofuran",101130,1746-11-8,Decrease,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C9H10O
+Lung,toluene,1140,108-88-3,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C6H5CH3
+Lung,undecane,14257,1120-21-4,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C11H24
+Lung,"2-methyl-2,3-dihydro-1-benzofuran",101130,1746-11-8,Decrease,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C9H10O
+Lung,phthalaldehyde,4807,643-79-8,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C8H6O2
+Lung,benzaldehyde,240,100-52-7,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C7H6O
+Lung,2-hydroxy-2-phenylacetonitrile,10758,532-28-5,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C8H7NO
+Lung,"2,6-dimethyl-1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalene",15379,1618-22-0,Decrease,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C12H22
+Lung,"1,5-dimethyl-1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalene",565746,-,Decrease,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C12H22
+Lung,"2,3-dimethyl-1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalene",13885,1008-80-6,Decrease,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C12H22
+Lung,"1,3,5-trimethyl-2-propylbenzene",521228,-,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C12H18
+Lung,1-ethyl-3-propan-2-ylbenzene,21030,4920-99-4,Increase,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C11H16
+Lung,"1,2-di(propan-2-yl)benzene",11345,25321-09-9,Produced,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C12 H18
+Lung,3-ethylbenzaldehyde,118623,34246-54-3,Produced,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C9H10O
+Lung,-,136606,768-46-7,Produced,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C10H12
+Lung,cyclopropylmethylbenzene,74274,1667-00-1,Produced,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C10H12
+Lung,acetic acid,176,64-19-7,Produced,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C2H4O2
+Lung,1-ethyl-3-methyladamantane,519330,-,Produced,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C13H22
+Lung,2-methylbutan-2-ylbenzene,16295,2049-95-8,Produced,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C11H16
+Lung,"4,7-dimethylundecane",519389,-,Produced,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C13H28
+Lung,character(0),-,character(0),Produced,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,character(0)
+Lung,2-ethylhexan-1-ol,7720,104-76-7,Produced,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C8H18O
+Lung,2-ethyl-4-methylpentan-1-ol,7821,106-67-2,Produced,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C8H18O
+Lung,"1,2-xylene;1,3-xylene;1,4-xylene",6850715,128686-03-3,Produced,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C24H30
+Lung,ethylbenzene,7500,100-41-4,Produced,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C8H10
+Lung,"1,4-xylene",7809,106-42-3,Produced,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,C6H4(CH3)2
+Lung,nitrous oxide,948,10024-97-2,Produced,in vitro,Calu3; H1650; H4006; H1435; H820; H1975; A549,culture medium,N2O
+Lung,nonanal,31289,124-19-6,Increase,in vitro,A549,Upon treatment with cisplatin,C9H18O
+Lung,"1,3-ditert-butylbenzene",136810,1014-60-4,Increase,in vitro,A549,Upon treatment with cisplatin,C14H22
+Lung,"2,6-ditert-butylcyclohexa-2,5-diene-1,4-dione",12867,719-22-2,Increase,in vitro,A549,Upon treatment with cisplatin,C14H20O2
+Lung,decane,15600,124-18-5,Increase,in vitro,A549,Upon treatment with cisplatin,C10H22
+Lung,tridecan-2-one,11622,593-08-8,Produced,in vitro,A549,BEAS2B,C13H26O
+Lung,tridecan-2-one,11622,593-08-8,Produced,in vitro,SK-MEM-1,BEAS2B,C13H26O
+Lung,tridecan-2-one,11622,593-08-8,Produced,in vitro,NCIH 446,BEAS2B,C13H26O
+Lung,decane,15600,124-18-5,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C10H22
+Lung,5-methylundecane,94213,1632-70-8,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C12H26
+Lung,nonadecan-2-one,69423,629-66-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C19H38O
+Lung,icosane,8222,112-95-8,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C20H42
+Lung,henicosane,12403,629-94-7,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C21H44
+Lung,ethanol,702,64-17-5,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,CH3CH2OH
+Lung,pyridine,1049,110-86-1,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H5N
+Lung,acetaldehyde,177,75-07-0,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C2H4O
+Lung,octane,356,111-65-9,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H18
+Lung,propanal,527,123-38-6,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H6O
+Lung,prop-2-enal,7847,107-02-8,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,CH2=CHCHO
+Lung,"2,4-dimethylheptane",16656,2213-23-2,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H20
+Lung,nonane,8141,111-84-2,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H20
+Lung,2-methylpent-1-ene,12986,763-29-1,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H12
+Lung,butan-2-one,6569,78-93-3,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H8O
+Lung,4-methyloctane,16665,2216-34-4,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H20
+Lung,propan-2-ol,3776,67-63-0,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H8O
+Lung,"butane-2,3-dione",650,431-03-8,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,CH3COCOCH3
+Lung,benzaldehyde,240,100-52-7,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H6O
+Lung,acetic acid,176,64-19-7,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C2H4O2
+Lung,prop-1-ene,8252,115-07-1,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H6
+Lung,6-methylhept-5-en-2-one,9862,409-02-9,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H14O
+Lung,dodecane,8182,112-40-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C12H26
+Lung,decanal,8175,112-31-2,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C10H20O
+Lung,acetonitrile,6342,75-05-8,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C2H3N
+Lung,"2,3,4-trimethylpentane",11269,565-75-3,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H18
+Lung,methyl acetate,6584,79-20-9,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H6O2
+Lung,"4,6,6-trimethylbicyclo[3.1.1]hept-3-ene",6654,80-56-8,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C10H16
+Lung,3-methylbutanal,11552,590-86-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H10O
+Lung,1H-pyrrole,8027,16199-06-7,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H5N
+Lung,hexanal,6184,66-25-1,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H12O
+Lung,(E)-but-2-enal,447466,4170-30-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H6O
+Lung,"2,4-dimethylhept-1-ene",123385,19549-87-2,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H18
+Lung,hexane,8058,110-54-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H14
+Lung,octanal,454,124-13-0,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H16O
+Lung,propan-2-one,180,67-64-1,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H6O
+Lung,pentan-2-one,7895,107-87-9,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H10O
+Lung,2-methylpentane,7892,107-83-5,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H14
+Lung,2-methylpropanal,6561,78-84-2,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H8O
+Lung,3-methylhexane,11507,589-34-4,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H16
+Lung,methanol,887,67-56-1,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,CH4O
+Lung,2-methylbutanal,7284,96-17-3,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H10O
+Lung,ethanol,702,64-17-5,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,CH3CH2OH
+Lung,pyridine,1049,110-86-1,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C5H5N
+Lung,hexan-2-one,11583,591-78-6,Decrease,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C6H12O
+Lung,4-methylheptane,11512,589-53-7,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C8H18
+Lung,acetaldehyde,177,75-07-0,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C2H4O
+Lung,octane,356,111-65-9,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C8H18
+Lung,propanal,527,123-38-6,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C3H6O
+Lung,prop-2-enal,7847,107-02-8,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,CH2=CHCHO
+Lung,"2,4-dimethylheptane",16656,2213-23-2,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C9H20
+Lung,nonane,8141,111-84-2,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C9H20
+Lung,2-methylpent-1-ene,12986,763-29-1,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C6H12
+Lung,butan-2-one,6569,78-93-3,Decrease,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C4H8O
+Lung,4-methyloctane,16665,2216-34-4,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C9H20
+Lung,propan-2-ol,3776,67-63-0,Decrease,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C3H8O
+Lung,"butane-2,3-dione",650,431-03-8,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,CH3COCOCH3
+Lung,benzaldehyde,240,100-52-7,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C7H6O
+Lung,acetic acid,176,64-19-7,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C2H4O2
+Lung,prop-1-ene,8252,115-07-1,Decrease,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C3H6
+Lung,6-methylhept-5-en-2-one,9862,409-02-9,Decrease,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C8H14O
+Lung,dodecane,8182,112-40-3,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C12H26
+Lung,decanal,8175,112-31-2,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C10H20O
+Lung,acetonitrile,6342,75-05-8,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C2H3N
+Lung,"2,3,4-trimethylpentane",11269,565-75-3,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C8H18
+Lung,methyl acetate,6584,79-20-9,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C3H6O2
+Lung,"4,6,6-trimethylbicyclo[3.1.1]hept-3-ene",6654,80-56-8,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C10H16
+Lung,3-methylbutanal,11552,590-86-3,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C5H10O
+Lung,1H-pyrrole,8027,16199-06-7,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C4H5N
+Lung,hexanal,6184,66-25-1,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C6H12O
+Lung,(E)-but-2-enal,447466,4170-30-3,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C4H6O
+Lung,"2,4-dimethylhept-1-ene",123385,19549-87-2,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C9H18
+Lung,hexane,8058,110-54-3,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C6H14
+Lung,octanal,454,124-13-0,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C8H16O
+Lung,propan-2-one,180,67-64-1,Decrease,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C3H6O
+Lung,pentan-2-one,7895,107-87-9,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C5H10O
+Lung,2-methylpropanal,6561,78-84-2,Decrease,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C4H8O
+Lung,3-methylhexane,11507,589-34-4,Decrease,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C7H16
+Lung,methanol,887,67-56-1,Decrease,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,CH4O
+Lung,2-methylbutanal,7284,96-17-3,Increase,Ex vivo,lung tissues from patients with lung cancer,Unaffected lung tissue,C5H10O
+Lung,"(1Z,5Z,9Z)-1,5,9-trimethylcyclododeca-1,5,9-triene",5365777,21064-19-7,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C15H24
+Lung,"[2,2,4-trimethyl-3-(2-methylpropanoyloxy)pentyl] 2-methylpropanoate",23284,6846-50-0,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C16H30O4
+Lung,ethyl 4-ethoxybenzoate,90232,23676-09-7,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C11H14O3
+Lung,"[2,4,4-trimethyl-3-(2-methylpropanoyloxy)pentyl] 2-methylpropanoate",93439,-,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C16H30O4
+Lung,"6,11-dihydro-5H-benzo[b][1]benzazepine",10308,494-19-9,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C14H13N
+Lung,"2,6-ditert-butylcyclohexa-2,5-diene-1,4-dione",12867,719-22-2,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C14H20O2
+Lung,phenoxybenzene,7583,101-84-8,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C12H10O
+Lung,"2,5-dimethylfuran",12266,625-86-5,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H8O
+Lung,1-ethyl-2-(2-ethylphenyl)benzene,83081,13049-35-9,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C16H18
+Lung,"2,4-dimethylpentan-3-one",11271,565-80-0,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H14O
+Lung,"(1R,4E,9S)-4,11,11-trimethyl-8-methylidenebicyclo[7.2.0]undec-4-ene",5281515,87-44-5,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C15H24
+Lung,"1,1,3-trimethyl-3-phenyl-2H-indene",19793,3910-35-8,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C18H20
+Lung,propan-1-ol,1031,71-23-8,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H8O
+Lung,4-methyldecane,17835,2847-72-5,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C11H24
+Lung,"diethyl benzene-1,2-dicarboxylate",6781,84-66-2,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H4(COOC2H5)2
+Lung,"2,5-dimethylhexa-2,4-diene",12992,764-13-6,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H14
+Lung,propan-2-ol,3776,67-63-0,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H8O
+Lung,pent-4-en-2-ol,12247,625-31-0,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H10O
+Lung,"1,1,2-trichloro-1,2,2-trifluoroethane",6428,76-13-1,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C2Cl3F3
+Lung,2-methoxy-2-methylpropane,15413,1634-04-4,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,(CH3)3COCH3
+Lung,(E)-1-methylsulfanylprop-1-ene,637915,10152-77-9,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H8S
+Lung,"hexane-2,3-dione",19707,3848-24-6,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H10O2
+Lung,"(3E)-5,5-dimethylhexa-1,3-diene",5368952,36320-14-6,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H14
+Lung,2-methylhexan-3-one,23847,06-12-7379,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H14O
+Lung,"4-methyl-2,3-dihydro-1H-indene",13211,824-22-6,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C10H12
+Lung,"4,7,7-trimethylbicyclo[2.2.1]heptan-3-one",2537,76-22-2,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C10H16O
+Lung,"(1S,4S)-4,7,7-trimethylbicyclo[2.2.1]heptan-3-one",444294,76-22-2,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C10H16O
+Lung,2-(4-methylcyclohex-3-en-1-yl)propan-2-ol,17100,8000-41-7,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C10H18O
+Lung,5-methyl-2-prop-1-en-2-yl-7-oxabicyclo[4.1.0]heptan-5-ol,565280,-,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C10H16O2
+Lung,"(E)-3-methyl-4-(2,6,6-trimethylcyclohex-2-en-1-yl)but-3-en-2-one",5372174,127-51-5,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C14H22O
+Lung,-,600322,-,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C15H22O
+Lung,"[2,2,4-trimethyl-3-(2-methylpropanoyloxy)pentyl] 2-methylpropanoate",23284,6846-50-0,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C16H30O4
+Lung,ethyl 4-ethoxybenzoate,90232,23676-09-7,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C11H14O3
+Lung,5-ethoxycarbonylbicyclo[3.2.2]nonane-1-carboxylic acid,578603,-,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C13H20O4
+Lung,"1-O-(2-methylpropyl) 4-O-propan-2-yl 2,2-dimethyl-3-propan-2-ylbutanedioate",551220,-,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C16H30O4
+Lung,"[2,4,4-trimethyl-3-(2-methylpropanoyloxy)pentyl] 2-methylpropanoate",93439,-,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C16H30O4
+Lung,"3,3,6,6-tetraphenyl-1,2,4,5-tetraoxane",570019,-,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C26H20O4
+Lung,diphenylmethanone,3102,119-61-9,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C13H10O
+Lung,"2,6-ditert-butyl-4-ethylidenecyclohexa-2,5-dien-1-one",95039,6738-27-8,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C16H24O
+Lung,"2-[(E)-(2-ethoxy-3,4-dimethylcyclohex-2-en-1-ylidene)methyl]furan",5376746,-,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C15H20O2
+Lung,"[(1S,2R)-2-phenylcyclobutyl]benzene",111326,7694-30-6,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C16H16
+Lung,(1-ethylsulfanyl-1-phenylpropyl)benzene,606838,-,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C17H20S
+Lung,"9-propyl-1,2,3,4-tetrahydroanthracene",607066,-,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C17H20
+Lung,"2-ethylanthracene-9,10-diol",617218,-,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C16H14O2
+Lung,1-ethyl-4-[1-(4-ethylphenyl)ethyl]benzene,25060,10224-91-6,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C18H22
+Lung,decane,15600,124-18-5,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C10H22
+Lung,undecane,14257,1120-21-4,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C11H24
+Lung,benzene,241,71-43-2,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H6
+Lung,styrene,7501,100-42-5,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H8
+Lung,propylbenzene,7668,103-65-1,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H12
+Lung,butan-2-ol,6568,78-92-2,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H10O
+Lung,aminourea,5196,57-56-7,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,CH5N3O
+Lung,methylhydrazine,6061,60-34-4,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,CH6N2
+Lung,ethanol,702,64-17-5,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,CH3CH2OH
+Lung,"1,2-xylene;1,3-xylene;1,4-xylene",6850715,128686-03-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C24H30
+Lung,1-methyl-4-propan-2-ylbenzene,7463,99-87-6,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C10H14
+Lung,ethylbenzene,7500,100-41-4,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H10
+Lung,styrene,7501,100-42-5,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H8
+Lung,toluene,1140,108-88-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H5CH3
+Lung,methoxymethane,8254,115-10-6,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C2H6O
+Lung,"2,6-ditert-butyl-4-methylphenol",31404,128-37-0,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C15H24O
+Lung,"1,3-diaminourea",73948,497-18-7,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,CH6N4O
+Lung,1-methyl-3-propan-2-ylbenzene,10812,535-77-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C10H14
+Lung,"cyclohepta-1,3,5-triene",11000,544-25-2,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H8
+Lung,3-methylhexane,11507,589-34-4,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H16
+Lung,3-ethylpentane,12048,617-78-7,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H16
+Lung,cyclooctatetraene,637866,629-20-9,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H8
+Lung,"bicyclo[4.2.0]octa-1,3,5-triene",69667,694-87-1,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H8
+Lung,"2,3,4-trimethylhexane",13533,921-47-1,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H20
+Lung,"(2,6-ditert-butyl-4-methylphenyl) N-methylcarbamate",15967,02-11-1918,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C17H27NO2
+Lung,"2,4-dimethylheptane",16656,2213-23-2,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H20
+Lung,"4,7-dimethylundecane",519389,-,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C13H28
+Lung,"2,4,6-tritert-butyl-4-methylcyclohexa-2,5-dien-1-one",609653,-,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C19H32O
+Lung,"2,6,6-trimethyloctane",551285,-,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C11H24
+Lung,butan-2-one,6569,78-93-3,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H8O
+Lung,hydrazine,9321,302-01-2,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,H4N2
+Lung,"(3E)-penta-1,3-diene",62204,504-60-9,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H8
+Lung,"3,3-dimethylpentane",11229,562-49-2,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H16
+Lung,"3,3-dimethylhexane",11233,563-16-6,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H18
+Lung,2-methylhexane,11582,591-76-4,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H16
+Lung,3-ethylhexane,12096,619-99-8,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H18
+Lung,"2,2,3-trimethylhexane",28021,16747-25-4,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H20
+Lung,ethylidenecyclopropane,140404,18631-83-9,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H8
+Lung,4-methyloctane,16665,2216-34-4,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H20
+Lung,2-ethylhexan-1-ol,7720,104-76-7,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H18O
+Lung,2-ethyl-4-methylpentan-1-ol,7821,106-67-2,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H18O
+Lung,"2,3,4-trimethylpentane",11269,565-75-3,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H18
+Lung,"2,3-dimethylhexane",11447,584-94-1,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H18
+Lung,3-ethyl-3-methylpentan-2-one,140590,19780-65-5,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H16O
+Lung,"2-methylocta-4,6-diyn-3-one",562128,-,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H10O
+Lung,2-propylpentan-1-ol,123543,58175-57-8,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H18O
+Lung,"(5E,9E)-6,10-dimethyldodeca-5,9-dien-2-one",5363460,13125-74-1,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C14H24O
+Lung,styrene,7501,100-42-5,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H8
+Lung,"2,2,4,6,6-pentamethylheptane",26058,13475-82-6,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C12H26
+Lung,2-methylheptane,11594,592-27-8,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H18
+Lung,decane,15600,124-18-5,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C10H22
+Lung,propylbenzene,7668,103-65-1,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H12
+Lung,undecane,14257,1120-21-4,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C11H24
+Lung,methylcyclopentane,7296,96-37-7,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H12
+Lung,1-methyl-2-pentylcyclopropane,524612,-,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H18
+Lung,trichloro(fluoro)methane,6389,75-69-4,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,CCl3F
+Lung,benzene,241,71-43-2,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H6
+Lung,"1,2,4-trimethylbenzene",7247,95-63-6,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H12
+Lung,"2-methylbuta-1,3-diene",6557,78-79-5,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H8
+Lung,3-methyloctane,16664,2216-33-3,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H20
+Lung,hex-1-ene,11597,592-41-6,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H12
+Lung,3-methylnonane,22202,06-04-5911,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C10H22
+Lung,hept-1-ene,11610,25339-56-4 (n-Heptene),-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H14
+Lung,"1,4-xylene",7809,106-42-3,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H4(CH3)2
+Lung,"2,4-dimethylheptane",16656,2213-23-2,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H20
+Lung,hexanal,6184,66-25-1,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H12O
+Lung,cyclohexane,8078,110-82-7,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H12
+Lung,prop-1-en-2-ylbenzene,7407,98-83-9,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H10
+Lung,heptanal,8130,111-71-7,-,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H14O
+Lung,propane,6334,74-98-6,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H8
+Lung,butane,7843,106-97-8,decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H10
+Lung,pentane,8003,109-66-0,decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H12
+Lung,hexane,8058,110-54-3,decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H14
+Lung,2-methylpentane,7892,107-83-5,decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H14
+Lung,propan-2-ol,3776,67-63-0,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H8O
+Lung,butanal,261,123-72-8,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H8O
+Lung,2-methylpropanal,6561,78-84-2,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H8O
+Lung,propan-2-one,180,67-64-1,decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H6O
+Lung,butan-2-one,6569,78-93-3,decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H8O
+Lung,benzene,241,71-43-2,decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H6
+Lung,toluene,1140,108-88-3,decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H5CH3
+Lung,ethylbenzene,7500,100-41-4,decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H10
+Lung,"1,2-xylene;1,3-xylene;1,4-xylene",6850715,128686-03-3,decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C24H30
+Lung,furan,8029,110-00-9,decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H4O
+Lung,acetonitrile,6342,75-05-8,decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C2H3N
+Lung,propan-1-ol,1031,71-23-8,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H8O
+Lung,butan-2-one,6569,78-93-3,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H8O
+Lung,but-3-yn-2-ol,16239,2028-63-9,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H6O
+Lung,benzaldehyde,240,100-52-7,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H6O
+Lung,2-methylpentane,7892,107-83-5,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H14
+Lung,3-methylpentane,7282,96-14-0,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H14
+Lung,pentane,8003,109-66-0,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H12
+Lung,hexane,8058,110-54-3,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H14
+Lung,oct-1-ene,8125,111-66-0,Increase,in vivo,Breath samples from patients with pulmonary nodules cancer,Breath samples from patients with benign pulmonary nodules,C8H16
+Lung,hexadecanal,984,629-80-1,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C16H32O
+Lung,icosane,8222,112-95-8,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C20H42
+Lung,5-(2-methylpropyl)nonane,545936,-,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C13H28
+Lung,7-methylhexadecane,292733,-,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C17H36
+Lung,8-methylheptadecane,292723,-,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C18H38
+Lung,"2,6-ditert-butyl-4-methylphenol",31404,128-37-0,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C15H24O
+Lung,"2,6-ditert-butyl-4-methylphenol",31404,128-37-0,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C15H24O
+Lung,nonadecane,12401,629-92-5,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C19H40
+Lung,8-hexylpentadecane,300518,-,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C21H44
+Lung,tetradecane,12389,629-59-4,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C14H30
+Lung,tetradecane,12389,629-59-4,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C14H30
+Lung,5-butan-2-ylnonane,43943,62185-54-0,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C13H28
+Lung,2-methylnaphthalene,7055,91-57-6,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C11H10
+Lung,2-methylundecanal,61031,110-41-8,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C12H24O
+Lung,nonadecan-1-ol,80281,1454-84-8,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C19H40O
+Lung,pentadecan-2-one,61303,2345-28-0,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C15H30O
+Lung,character(0),-,character(0),Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,character(0)
+Lung,tridecan-2-one,11622,593-08-8,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C13H26O
+Lung,5-propyltridecane,41310,55045-11-9,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C16H34
+Lung,"2,6-dimethylnaphthalene",11387,581-42-0,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C12H12
+Lung,tridecane,12388,629-50-5,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C13H28
+Lung,character(0),-,character(0),Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,character(0)
+Lung,5-butylnonane,300476,-,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C13H28
+Lung,"2,4,6-trimethyloctane",545612,-,Produced,in vitro,A549,BEAS-2B,C11H24
+Lung,2-methyldodecane,15270,68551-19-9,Produced,in vitro,A549,BEAS-2B,C13H28
+Lung,tridecan-2-one,11622,593-08-8,Produced,in vitro,A549,BEAS-2B,C13H26O
+Lung,pentadecan-2-one,61303,2345-28-0,Produced,in vitro,A549,BEAS-2B,C15H30O
+Lung,8-methylheptadecane,292723,-,Produced,in vitro,A549,BEAS-2B,C18H38
+Lung,formic acid,284,64-18-6,Produced,in vitro,SK-MES-1,BEAS-2B,HCOOH
+Lung,nonan-2-one,13187,821-55-6,Produced,in vitro,SK-MES-1,BEAS-2B,C9H18O
+Lung,pentadecan-2-one,61303,2345-28-0,Produced,in vitro,SK-MES-1,BEAS-2B,C15H30O
+Lung,nonadecane,12401,629-92-5,Produced,in vitro,SK-MES-1,BEAS-2B,C19H40
+Lung,icosane,8222,112-95-8,Produced,in vitro,SK-MES-1,BEAS-2B,C20H42
+Lung,decan-2-one,12741,693-54-9,Produced,in vitro,NCI-H446,BEAS-2B,C10H20O
+Lung,undecan-2-one,8163,112-12-9,Produced,in vitro,NCI-H446,BEAS-2B,C11H22O
+Lung,2-methylnaphthalene,7055,91-57-6,Produced,in vitro,NCI-H446,BEAS-2B,C11H10
+Lung,tridecan-2-one,11622,593-08-8,Produced,in vitro,NCI-H446,BEAS-2B,C13H26O
+Lung,pentadecan-2-one,61303,2345-28-0,Produced,in vitro,NCI-H446,BEAS-2B,C15H30O
+Lung,"2,6-dimethylnaphthalene",11387,581-42-0,Produced,in vitro,NCI-H446,BEAS-2B,C12H12
+Lung,heptadecan-1-ol,15076,1454-85-9,Produced,in vitro,NCI-H446,BEAS-2B,C17H36O
+Lung,heptadecan-2-one,18027,2922-51-2,Produced,in vitro,NCI-H446,BEAS-2B,C17H34O
+Lung,nonadecane,12401,629-92-5,Produced,in vitro,NCI-H446,BEAS-2B,C19H40
+Lung,icosane,8222,112-95-8,Produced,in vitro,NCI-H446,BEAS-2B,C20H42
+Lung,decane,15600,124-18-5,Produced,in vitro,lung tissues from patients with lung cancer,Unaffected lung tissue,C10H22
+Lung,2-propylpentan-1-ol,123543,58175-57-8,Produced,in vitro,lung tissues from patients with lung cancer,Unaffected lung tissue,C8H18O
+Lung,"(2E,6E)-6-ethyldeca-2,6-diene-4,5-diol",5367947,-,Produced,in vitro,lung tissues from patients with lung cancer,Unaffected lung tissue,C12H22O2
+Lung,dodecane,8182,112-40-3,Produced,in vitro,lung tissues from patients with lung cancer,Unaffected lung tissue,C12H26
+Lung,hexadecane,11006,544-76-3,Produced,in vitro,lung tissues from patients with lung cancer,Unaffected lung tissue,C16H34
+Lung,tridecane,12388,629-50-5,Produced,in vitro,lung tissues from patients with lung cancer,Unaffected lung tissue,C13H28
+Lung,(E)-tetradec-2-ene,5352912,26952-13-6,Produced,in vitro,lung tissues from patients with lung cancer,Unaffected lung tissue,C14H28
+Lung,tetradecane,12389,629-59-4,Produced,in vitro,lung tissues from patients with lung cancer,Unaffected lung tissue,C14H30
+Lung,pentadecan-2-one,61303,2345-28-0,Produced,in vitro,lung tissues from patients with lung cancer,Unaffected lung tissue,C15H30O
+Lung,nonadecane,12401,629-92-5,Produced,in vitro,lung tissues from patients with lung cancer,Unaffected lung tissue,C19H40
+Lung,icosane,8222,112-95-8,Produced,in vitro,lung tissues from patients with lung cancer,Unaffected lung tissue,C20H42
+Lung,2-methylpropane,6360,75-28-5,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H10
+Lung,methanol,887,67-56-1,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,CH4O
+Lung,ethanol,702,64-17-5,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,CH3CH2OH
+Lung,propan-2-one,180,67-64-1,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H6O
+Lung,pentane,8003,109-66-0,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H12
+Lung,"2-methylbuta-1,3-diene",6557,78-79-5,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H8
+Lung,propan-2-ol,3776,67-63-0,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H8O
+Lung,methylsulfanylmethane,1068,75-18-3,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C2H6S
+Lung,methanedithione,6348,75-15-0,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,CS2
+Lung,benzene,241,71-43-2,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H6
+Lung,toluene,1140,108-88-3,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H5CH3
+Lung,butan-1-ol,263,71-36-3,Increase,in vivo,Breath samples from patients with lung cancer (NSCLC),Breath samples from healthy individuals,C4H10O
+Lung,3-hydroxybutan-2-one,179,513-86-0,Increase,in vivo,Breath samples from patients with lung cancer (NSCLC),Breath samples from healthy individuals,C4H8O2
+Lung,dodecane,8182,112-40-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C12H26
+Lung,butanal,261,123-72-8,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H8O
+Lung,butan-2-one,6569,78-93-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H8O
+Lung,ethyl acetate,8857,141-78-6,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H8O2
+Lung,ethylbenzene,7500,100-41-4,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H10
+Lung,pentan-2-one,7895,107-87-9,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H10O
+Lung,propan-1-ol,1031,71-23-8,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H8O
+Lung,propan-2-ol,3776,67-63-0,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H8O
+Lung,pentanal,8063,110-62-3,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H10O
+Lung,hexanal,6184,66-25-1,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H12O
+Lung,nonane,8141,111-84-2,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H20
+Lung,ethanol,702,64-17-5,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,CH3CH2OH
+Lung,propan-2-one,180,67-64-1,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H6O
+Lung,butane,7843,106-97-8,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H10
+Lung,methylsulfanylmethane,1068,75-18-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C2H6S
+Lung,"2-methylbuta-1,3-diene",6557,78-79-5,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H8
+Lung,propanal,527,123-38-6,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H6O
+Lung,propan-1-ol,1031,71-23-8,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H8O
+Lung,pentan-2-one,7895,107-87-9,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H10O
+Lung,furan,8029,110-00-9,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H4O
+Lung,"1,2-xylene;1,3-xylene;1,4-xylene",6850715,128686-03-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C24H30
+Lung,ethylbenzene,7500,100-41-4,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H10
+Lung,acetaldehyde,177,75-07-0,decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C2H4O
+Lung,pentane,8003,109-66-0,decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H12
+Lung,3-methylpentane,7282,96-14-0,decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H14
+Lung,ethyl acetate,8857,141-78-6,decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H8O2
+Lung,toluene,1140,108-88-3,decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H5CH3
+Lung,4-methyloctane,16665,2216-34-4,decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H20
+Lung,butane,7843,106-97-8,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H10
+Lung,3-methyltridecane,110848,6418-41-3,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C14H30
+Lung,7-methyltridecane,33588,26730-14-3,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C14H30
+Lung,4-methyloctane,16665,2216-34-4,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H20
+Lung,3-methylhexane,11507,589-34-4,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H16
+Lung,heptane,8900,142-82-5,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H16
+Lung,2-methylhexane,11582,591-76-4,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H16
+Lung,pentane,8003,109-66-0,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H12
+Lung,5-methyldecane,93071,13151-35-4,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C11H24
+Lung,2-methylaniline,7242,95-53-4,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H9N
+Lung,butan-2-one,6569,78-93-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H8O
+Lung,2-hydroxyacetaldehyde,756,141-46-8,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C2H4O2
+Lung,3-hydroxybutan-2-one,179,513-86-0,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H8O2
+Lung,(E)-4-hydroxyhex-2-enal,5283314,17427-21-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H10O2
+Lung,butane,7843,106-97-8,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H10
+Lung,2-methylbutane,6556,78-78-4,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H12
+Lung,4-methyloctane,16665,2216-34-4,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H20
+Lung,propane,6334,74-98-6,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H8
+Lung,pentan-2-one,7895,107-87-9,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H10O
+Lung,propanal,527,123-38-6,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H6O
+Lung,"2,4-dimethylheptane",16656,2213-23-2,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H20
+Lung,prop-1-ene,8252,115-07-1,Produced,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H6
+Lung,icosane,8222,112-95-8,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C20H42
+Lung,tridecane,12388,629-50-5,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C13H28
+Lung,"2,6,11-trimethyldodecane",35768,31295-56-4,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C15H32
+Lung,hexadecanal,984,629-80-1,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C16H32O
+Lung,5-(2-methylpropyl)nonane,545936,-,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C13H28
+Lung,styrene,7501,100-42-5,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C8H8
+Lung,2-methylpentane,7892,107-83-5,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C6H14
+Lung,nonadecane,12401,629-92-5,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C19H40
+Lung,8-hexylpentadecane,300518,-,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C21H44
+Lung,"2,6-ditert-butyl-4-methylphenol",31404,128-37-0,-,in vivo,Breath samples from patients with breast cancer,Breath samples from healthy individuals,C15H24O
+Lung,hexadecanal,984,629-80-1,-,in vivo,Breath samples from patients with breast cancer,Breath samples from patients with pulmonary non-malignant disease,C16H32O
+Lung,5-(2-methylpropyl)nonane,545936,-,-,in vivo,Breath samples from patients with breast cancer,Breath samples from patients with pulmonary non-malignant disease,C13H28
+Lung,"2,6,11-trimethyldodecane",35768,31295-56-4,-,in vivo,Breath samples from patients with breast cancer,Breath samples from patients with pulmonary non-malignant disease,C15H32
+Lung,3-methylpentadecane,17899,2882-96-4,-,in vivo,Breath samples from patients with breast cancer,Breath samples from patients with pulmonary non-malignant disease,C16H34
+Lung,"2,6-ditert-butyl-4-methylphenol",31404,128-37-0,-,in vivo,Breath samples from patients with breast cancer,Breath samples from patients with pulmonary non-malignant disease,C15H24O
+Lung,8-hexylpentadecane,300518,-,-,in vivo,Breath samples from patients with breast cancer,Breath samples from patients with pulmonary non-malignant disease,C21H44
+Lung,tridecane,12388,629-50-5,-,in vivo,Breath samples from patients with breast cancer,Breath samples from patients with pulmonary non-malignant disease,C13H28
+Lung,nonadecan-1-ol,80281,1454-84-8,-,in vivo,Breath samples from patients with breast cancer,Breath samples from patients with pulmonary non-malignant disease,C19H40O
+Lung,decane,15600,124-18-5,-,in vivo,Breath samples from patients with breast cancer,Breath samples from patients with pulmonary non-malignant disease,C10H22
+Lung,benzene,241,71-43-2,-,in vivo,Breath samples from patients with breast cancer,Breath samples from patients with pulmonary non-malignant disease,C6H6
+Lung,butan-2-one,6569,78-93-3,Produced,in vivo,urine samples from patients with lung cancer,urine samples from healthy individuals,C4H8O
+Lung,pentan-2-one,7895,107-87-9,Produced,in vivo,urine samples from patients with lung cancer,urine samples from healthy individuals,C5H10O
+Lung,heptan-2-one,8051,110-43-0,Produced,in vivo,urine samples from patients with lung cancer,urine samples from healthy individuals,C7H14O
+Lung,2-ethylhexan-1-ol,7720,104-76-7,Produced,in vivo,urine samples from patients with lung cancer,urine samples from healthy individuals,C8H18O
+Lung,1H-pyrrole,8027,16199-06-7,Increase,in vivo,urine samples from patients with lung cancer,urine samples from healthy individuals,C4H5N
+Lung,pentanal,8063,110-62-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H10O
+Lung,ethylbenzene,7500,100-41-4,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H10
+Lung,heptanal,8130,111-71-7,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H14O
+Lung,octanal,454,124-13-0,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H16O
+Lung,decane,15600,124-18-5,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C10H22
+Lung,pentan-2-one,7895,107-87-9,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H10O
+Lung,pentanal,8063,110-62-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H10O
+Lung,heptan-2-one,8051,110-43-0,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H14O
+Lung,heptanal,8130,111-71-7,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H14O
+Lung,nonanal,31289,124-19-6,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H18O
+Lung,propan-2-one,180,67-64-1,Increase,in vivo,Breath from lung cancer patients after chemotherapy by cytostatic drugs,Breath from lung cancer patients,C3H6O
+Lung,"2-methylbuta-1,3-diene",6557,78-79-5,Increase,in vivo,Breath from lung cancer patients after chemotherapy by cytostatic drugs,Breath from lung cancer patients,C5H8
+Lung,azepan-2-one,7768,105-60-2,Increase,in vivo,exhaled breath samples from ipsilateral lungs before tumor surgery,exhaled breath samples from ipsilateral lungs after tumor surgery,C6H11NO
+Lung,propanoic acid,1032,79-09-4,Increase,in vivo,exhaled breath samples from ipsilateral lungs before tumor surgery,exhaled breath samples from ipsilateral lungs after tumor surgery,C3H6O2
+Lung,"1,1,3,3-tetramethylurea",12437,632-22-4,Decrease,in vivo,blood samples from lung cancer patients before tumor surgery,blood samples from lung cancer patients after tumor surgery,C5H12N2O
+Lung,2-phenylpropan-2-ol,12053,617-94-7,Decrease,in vivo,blood samples from lung cancer patients before tumor surgery,blood samples from lung cancer patients after tumor surgery,C9H12O
+Lung,N-ethylaniline,7670,103-69-5,Increase,in vivo,blood samples from lung cancer patients before tumor surgery,blood samples from lung cancer patients after tumor surgery,C8H11N
+Lung,azepan-2-one,7768,105-60-2,Decrease,in vivo,blood samples from lung cancer patients before tumor surgery,blood samples from lung cancer patients after tumor surgery,C6H11NO
+Lung,-,595345,-,Decrease,in vivo,blood samples from lung cancer patients before tumor surgery,blood samples from lung cancer patients after tumor surgery,C15H24O
+Lung,nonanoic acid,8158,112-05-0,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H18O2
+Lung,styrene,7501,100-42-5,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H8
+Lung,decane,15600,124-18-5,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C10H22
+Lung,"2-methylbuta-1,3-diene",6557,78-79-5,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H8
+Lung,benzene,241,71-43-2,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H6
+Lung,undecane,14257,1120-21-4,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C11H24
+Lung,hex-1-ene,11597,592-41-6,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H12
+Lung,hexanal,6184,66-25-1,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H12O
+Lung,propylbenzene,7668,103-65-1,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H12
+Lung,"1,2,4-trimethylbenzene",7247,95-63-6,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H12
+Lung,heptanal,8130,111-71-7,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H14O
+Lung,methylcyclopentane,7296,96-37-7,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H12
+Lung,oxolane,8028,109-99-9,Increase,in vivo,Urine samples from patients with lung cancer,Urine samples from healthy individuals,C4H8O
+Lung,2-chloroethanol,34,107-07-3,Increase,in vivo,Urine samples from patients with lung cancer,Urine samples from healthy individuals,C2H5ClO
+Lung,pentan-2-one,7895,107-87-9,Increase,in vivo,Urine samples from patients with lung cancer,Urine samples from healthy individuals,C5H10O
+Lung,2-methylpyrazine,7976,109-08-0,Increase,in vivo,Urine samples from patients with lung cancer,Urine samples from healthy individuals,C5H6N2
+Lung,cyclohexanone,7967,108-94-1,Increase,in vivo,Urine samples from patients with lung cancer,Urine samples from healthy individuals,C6H10O
+Lung,2-ethylhexan-1-ol,7720,104-76-7,Increase,in vivo,Urine samples from patients with lung cancer,Urine samples from healthy individuals,C8H18O
+Lung,2-phenylpropan-2-ol,12053,617-94-7,Increase,in vivo,Urine samples from patients with lung cancer,Urine samples from healthy individuals,C9H12O
+Lung,"3,5,5-trimethylcyclohex-2-en-1-one",6544,78-59-1,Increase,in vivo,Urine samples from patients with lung cancer,Urine samples from healthy individuals,C9H14O
+Lung,"2,6-di(propan-2-yl)phenol",4943,2078-54-8,Increase,in vivo,Urine samples from patients with lung cancer,Urine samples from healthy individuals,C12H18O
+Lung,"2-methylbuta-1,3-diene",6557,78-79-5,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H8
+Lung,2-methylpentane,7892,107-83-5,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H14
+Lung,pentane,8003,109-66-0,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H12
+Lung,ethylbenzene,7500,100-41-4,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H10
+Lung,"1,2-xylene;1,3-xylene;1,4-xylene",6850715,128686-03-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C24H30
+Lung,"1,2,3-trimethylbenzene",10686,526-73-8,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H12
+Lung,toluene,1140,108-88-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H5CH3
+Lung,benzene,241,71-43-2,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H6
+Lung,heptane,8900,142-82-5,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C7H16
+Lung,decane,15600,124-18-5,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C10H22
+Lung,styrene,7501,100-42-5,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H8
+Lung,octane,356,111-65-9,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H18
+Lung,"2,2,3,3-tetramethyloctane",3033849,30586-18-6,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C12H26
+Lung,2-methylpent-1-ene,12986,763-29-1,Increase,in vivo,Breath samples from lung cancer patients before surgery,Breath samples from lung cancer patients after surgery,C6H12
+Lung,hexan-2-one,11583,591-78-6,Increase,in vivo,Breath samples from lung cancer patients before surgery,Breath samples from lung cancer patients after surgery,C6H12O
+Lung,heptan-3-one,7802,106-35-4,Increase,in vivo,Breath samples from lung cancer patients before surgery,Breath samples from lung cancer patients after surgery,C7H14O
+Lung,styrene,7501,100-42-5,Increase,in vivo,Breath samples from lung cancer patients before surgery,Breath samples from lung cancer patients after surgery,C8H8
+Lung,"2,2,4-trimethylhexane",28022,16747-26-5,Increase,in vivo,Breath samples from lung cancer patients before surgery,Breath samples from lung cancer patients after surgery,C9H20
+Lung,acetaldehyde,177,75-07-0,Decrease,Ex vivo,lung tissues from patients with lung cancer,healthy lung tissue,C2H4O
+Lung,ethanol,702,64-17-5,Increase,Ex vivo,lung tissues from patients with lung cancer,healthy lung tissue,CH3CH2OH
+Lung,propan-2-one,180,67-64-1,Increase,Ex vivo,lung tissues from patients with lung cancer,healthy lung tissue,C3H6O
+Lung,acetonitrile,6342,75-05-8,Increase,Ex vivo,lung tissues from patients with lung cancer,healthy lung tissue,C2H3N
+Lung,methanedithione,6348,75-15-0,Increase,Ex vivo,lung tissues from patients with lung cancer,healthy lung tissue,CS2
+Lung,methylsulfanylmethane,1068,75-18-3,Increase,Ex vivo,lung tissues from patients with lung cancer,healthy lung tissue,C2H6S
+Lung,propan-2-ol,3776,67-63-0,Increase,Ex vivo,lung tissues from patients with lung cancer,healthy lung tissue,C3H8O
+Lung,propan-1-ol,1031,71-23-8,Increase,Ex vivo,lung tissues from patients with lung cancer,healthy lung tissue,C3H8O
+Lung,butan-2-one,6569,78-93-3,Increase,Ex vivo,lung tissues from patients with lung cancer,healthy lung tissue,C4H8O
+Lung,pentan-2-one,7895,107-87-9,Increase,Ex vivo,lung tissues from patients with lung cancer,healthy lung tissue,C5H10O
+Lung,2-methylpentane,7892,107-83-5,Increase,Ex vivo,lung tissues from patients with lung cancer,healthy lung tissue,C6H14
+Lung,3-methylpentane,7282,96-14-0,Increase,Ex vivo,lung tissues from patients with lung cancer,healthy lung tissue,C6H14
+Lung,hexane,8058,110-54-3,Increase,Ex vivo,lung tissues from patients with lung cancer,healthy lung tissue,C6H14
+Lung,toluene,1140,108-88-3,Increase,Ex vivo,lung tissues from patients with lung cancer,healthy lung tissue,C6H5CH3
+Lung,"1,4-xylene",7809,106-42-3,Decrease,Ex vivo,lung tissues from patients with lung cancer,healthy lung tissue,C6H4(CH3)2
+Lung,ethylbenzene,7500,100-41-4,Decrease,Ex vivo,lung tissues from lung cancer patients,healthy lung tissue,C8H10
+Lung,acetaldehyde,177,75-07-0,Decrease,in vivo,Breath samples frompatients with lung cancer,Breath samples from healthy individuals,C2H4O
+Lung,ethanol,702,64-17-5,Increase,in vivo,Breath samples frompatients with lung cancer,Breath samples from healthy individuals,CH3CH2OH
+Lung,propan-2-one,180,67-64-1,Increase,in vivo,Breath samples frompatients with lung cancer,Breath samples from healthy individuals,C3H6O
+Lung,acetonitrile,6342,75-05-8,Increase,in vivo,Breath samples frompatients with lung cancer,Breath samples from healthy individuals,C2H3N
+Lung,methanedithione,6348,75-15-0,Increase,in vivo,Breath samples frompatients with lung cancer,Breath samples from healthy individuals,CS2
+Lung,methylsulfanylmethane,1068,75-18-3,Increase,in vivo,Breath samples frompatients with lung cancer,Breath samples from healthy individuals,C2H6S
+Lung,propan-2-ol,3776,67-63-0,Increase,in vivo,Breath samples frompatients with lung cancer,Breath samples from healthy individuals,C3H8O
+Lung,propan-1-ol,1031,71-23-8,Increase,in vivo,Breath samples frompatients with lung cancer,Breath samples from healthy individuals,C3H8O
+Lung,butan-2-one,6569,78-93-3,Increase,in vivo,Breath samples frompatients with lung cancer,Breath samples from healthy individuals,C4H8O
+Lung,pentan-2-one,7895,107-87-9,Increase,in vivo,Breath samples frompatients with lung cancer,Breath samples from healthy individuals,C5H10O
+Lung,2-methylpentane,7892,107-83-5,Decrease,in vivo,Breath samples frompatients with lung cancer,Breath samples from healthy individuals,C6H14
+Lung,3-methylpentane,7282,96-14-0,Decrease,in vivo,Breath samples frompatients with lung cancer,Breath samples from healthy individuals,C6H14
+Lung,hexane,8058,110-54-3,Increase,in vivo,Breath samples frompatients with lung cancer,Breath samples from healthy individuals,C6H14
+Lung,toluene,1140,108-88-3,Decrease,in vivo,Breath samples frompatients with lung cancer,Breath samples from healthy individuals,C6H5CH3
+Lung,"1,4-xylene",7809,106-42-3,Decrease,in vivo,Breath samples frompatients with lung cancer,Breath samples from healthy individuals,C6H4(CH3)2
+Lung,ethylbenzene,7500,100-41-4,Increase,in vivo,Breath samples frompatients with lung cancer,Breath samples from healthy individuals,C8H10
+Lung,methanol,887,67-56-1,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,CH4O
+Lung,"2-methylbuta-1,3-diene",6557,78-79-5,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H8
+Lung,"(3E)-penta-1,3-diene",62204,504-60-9,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C5H8
+Lung,acetic acid,176,64-19-7,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C2H4O2
+Lung,propanoic acid,1032,79-09-4,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H6O2
+Lung,3-hydroxybutan-2-one,179,513-86-0,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H8O2
+Lung,toluene,1140,108-88-3,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H5CH3
+Lung,1-methyl-4-prop-1-en-2-ylcyclohexene,22311,138-86-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C10H16
+Lung,nonanal,31289,124-19-6,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H18O
+Lung,benzene,241,71-43-2,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H6
+Lung,ethylbenzene,7500,100-41-4,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C8H10
+Lung,propylbenzene,7668,103-65-1,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H12
+Lung,butan-1-ol,263,71-36-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H10O
+Lung,butan-2-one,6569,78-93-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H8O
+Lung,dodecane,8182,112-40-3,Increase,in vivo,Breath from non-smokers lung cancer patients,Breath samples from healthy individuals,C12H26
+Lung,cyclohexane,8078,110-82-7,Decrease,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H12
+Lung,propanal,527,123-38-6,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C3H6O
+Lung,butanal,261,123-72-8,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H8O
+Lung,pentanal,8063,110-62-3,Increase,in vivo,Breath from non-smokers lung cancer patients,Breath samples from healthy individuals,C5H10O
+Lung,hexanal,6184,66-25-1,Increase,in vivo,Breath from non-smokers lung cancer patients,Breath samples from healthy individuals,C6H12O
+Lung,decanal,8175,112-31-2,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C10H20O
+Lung,character(0),-,character(0),-,in vivo,urine samples from lung cancer patients,urine samples from healthy individuals,character(0)
+Lung,nitromethane,6375,75-52-5,-,in vivo,urine samples from lung cancer patients,urine samples from healthy individuals,CH3NO2
+Lung,heptan-2-one,8051,110-43-0,-,in vivo,urine samples from lung cancer patients,urine samples from healthy individuals,C7H14O
+Lung,(E)-hept-5-en-2-one,5363108,6714-00-7,-,in vivo,urine samples from lung cancer patients,urine samples from healthy individuals,C7H12O
+Lung,"1-(3,4-dihydro-2H-pyrrol-5-yl)ethanone",522834,85213-22-5,-,in vivo,urine samples from lung cancer patients,urine samples from healthy individuals,C6H9NO
+Lung,"2-propan-2-yl-4,5-dihydro-1,3-thiazole",206245,45533-49-1,-,in vivo,urine samples from lung cancer patients,urine samples from healthy individuals,C6H11NS
+Lung,"2-butan-2-yl-4,5-dihydro-1,3-thiazole",162148,56367-27-2,-,in vivo,urine samples from lung cancer patients,urine samples from healthy individuals,C7H13NS
+Lung,6-hydroxy-6-methylheptan-3-one,129891,123065-56-5,-,in vivo,urine samples from lung cancer patients,urine samples from healthy individuals,C8H16O2
+Lung,2-methylaniline,7242,95-53-4,-,in vivo,urine samples from lung cancer patients,urine samples from healthy individuals,C7H9N
+Lung,2-ethylhexanoic acid,8697,149-57-5,-,in vivo,urine samples from lung cancer patients,urine samples from healthy individuals,C8H16O2
+Lung,N-phenylformamide,7671,103-70-8,-,in vivo,urine samples from lung cancer patients,urine samples from healthy individuals,C7H7NO
+Lung,butan-2-one,6569,78-93-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H8O
+Lung,3-hydroxybutan-2-one,179,513-86-0,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C4H8O2
+Lung,(E)-4-hydroxyhex-2-enal,5283314,17427-21-3,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C6H10O2
+Lung,2-hydroxyacetaldehyde,756,141-46-8,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C2H4O2
+Lung,prop-2-enal,7847,107-02-8,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,CH2=CHCHO
+Lung,(E)-4-hydroxynon-2-enal,5283344,29343-52-0,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C9H16O2
+Lung,acetaldehyde,177,75-07-0,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,C2H4O
+Lung,propanedial,10964,542-78-9,Increase,in vivo,Breath samples from patients with lung cancer,Breath samples from healthy individuals,OCHCH2CHO
+Lung,propan-2-one,180,67-64-1,Increase,in vitro,A549,MRC-5,C3H6O
+Lung,benzene,241,71-43-2,Increase,in vitro,A549,MRC-5,C6H6
+Lung,pentanal,8063,110-62-3,Increase,in vitro,A549,MRC-5,C5H10O
+Lung,heptanal,8130,111-71-7,Increase,in vitro,A549,MRC-5,C7H14O
+Lung,decane,15600,124-18-5,Increase,in vitro,A549,MRC-5,C10H22
+Lung,undecane,14257,1120-21-4,Increase,in vitro,A549,MRC-5,C11H24
+Lung,nonanal,31289,124-19-6,Decrease,in vitro,A549,MRC-5,C9H18O
+Liver,2-methylprop-2-enal,6562,4170-30-3,Decrease?,in vitro,HepG2,Culture medium,C4H6O
+Liver,2-methylpropanal,6561,78-84-2,Decrease,in vitro,HepG2,Culture medium,C4H8O
+Liver,2-methylidenebutanal,70203,922-63-4,Decrease,in vitro,HepG2,Culture medium,C5H8O
+Liver,3-methylbutanal,11552,590-86-3,Decrease,in vitro,HepG2,Culture medium,C5H10O
+Liver,hexanal,6184,66-25-1,Decrease,in vitro,HepG2,Culture medium,C6H12O
+Liver,benzaldehyde,240,100-52-7,Decrease,in vitro,HepG2,Culture medium,C7H6O
+Liver,propyl propanoate,7803,106-36-5,Decrease,in vitro,HepG2,Culture medium,C6H12O2
+Liver,butyl acetate,31272,123-86-4,Decrease,in vitro,HepG2,Culture medium,C6H12O2
+Liver,"2-methylbuta-1,3-diene",6557,78-79-5,Decrease,in vitro,HepG2,Culture medium,C5H8
+Liver,pentan-2-one,7895,107-87-9,Increase,in vitro,HepG2,Culture medium,C5H10O
+Liver,heptan-3-one,7802,106-35-4,Increase,in vitro,HepG2,Culture medium,C7H14O
+Liver,heptan-2-one,8051,110-43-0,Increase,in vitro,HepG2,Culture medium,C7H14O
+Liver,5-methylheptan-3-one,7822,541-85-5,Increase,in vitro,HepG2,Culture medium,C8H16O
+Liver,nonan-2-one,13187,821-55-6,Increase,in vitro,HepG2,Culture medium,C9H18O
+Liver,methylsulfanylmethane,1068,75-18-3,Increase,in vitro,HepG2,Culture medium,C2H6S
+Liver,methylsulfanylethane,12230,624-89-5,Increase,in vitro,HepG2,Culture medium,C3H8S
+Liver,3-methylthiophene,12024,616-44-4,Increase,in vitro,HepG2,Culture medium,C5H6S
+Liver,2-methyl-1-methylsulfanylpropane,263077,-,Increase,in vitro,HepG2,Culture medium,C5H12S
+Liver,2-methyl-5-methylsulfanylfuran,61657,13678-59-6,Increase,in vitro,HepG2,Culture medium,C6H8OS
+Liver,propyl acetate,7997,109-60-4,Increase,in vitro,HepG2,Culture medium,C5H10O2
+Liver,(E)-hept-2-ene,639662,14686-13-6,Increase,in vitro,HepG2,Culture medium,C7H14
+Liver,hexanal,6184,66-25-1,Increase,in vivo,Blood samples from patients with liver cancer,Blood samples from healthy individuals,C6H12O
+Liver,oct-1-en-3-ol,18827,3391-86-4,Increase,in vivo,Blood samples from patients with liver cancer,Blood samples from healthy individuals,C8H16O
+Liver,octane,356,111-65-9,Increase,in vivo,Blood samples from patients with liver cancer,Blood samples from healthy individuals,C8H18
+Liver,methanesulfonyl chloride,31297,124-63-0,Increase,in vitro,MHCC97-H; MHCC97-L; HepG2; SMMC-7721; BEL-7402,L-02,CH3ClO2S
+Liver,"2,3-dihydro-1-benzofuran",10329,496-16-2,Increase,in vitro,MHCC97-H,MHCC97-H; MHCC97-L; HepG2; SMMC-7721; BEL-7402,C8H8O
+Liver,"2,3-dihydro-1-benzofuran",10329,496-16-2,Increase,in vitro,MHCC97-H,L-02,C8H8O
+Liver,"2,3-dihydro-1-benzofuran",10329,496-16-2,Decrease,in vitro,MHCC97-H; MHCC97-L; HepG2; SMMC-7721; BEL-7402,L-02,C8H8O
+Liver,ethanol,702,64-17-5,Decrease,in vitro,MHCC97-H,L-02,CH3CH2OH
+Liver,acetic acid,176,64-19-7,Increase,in vitro,MHCC97-H,L-02,C2H4O2
+Liver,3-hydroxybutan-2-one,179,513-86-0,Increase,in vivo,Breath samples from patients with hepatocellular carcinoma,Breath samples from healthy individuals,C4H8O2
+Liver,styrene,7501,100-42-5,Increase,in vivo,Breath samples from patients with hepatocellular carcinoma,Breath samples from healthy individuals,C8H8
+Liver,decane,15600,124-18-5,Increase,in vivo,Breath samples from patients with hepatocellular carcinoma,Breath samples from healthy individuals,C10H22
+Thyroid,"bicyclo[4.2.0]octa-1,3,5-triene",69667,694-87-1,-,in vitro,thyroid cancer primary cells,culture medium,C8H8
+Thyroid,methyl (Z)-N-hydroxybenzenecarboximidate,9602988,-,-,in vitro,thyroid cancer primary cells,culture medium,C8H9NO2
+Thyroid,methyl (Z)-N-hydroxybenzenecarboximidate,9602988,-,-,in vitro,thyroid cancer primary cells,culture medium,C8H9NO2
+Thyroid,nonanal,31289,124-19-6,-,in vitro,thyroid cancer primary cells,culture medium,C9H18O
+Thyroid,(2-methylcyclohexyl)methanol,14515,2105-40-0,-,in vitro,thyroid cancer primary cells,culture medium,C8H16O
+Thyroid,decanal,8175,112-31-2,-,in vitro,thyroid cancer primary cells,culture medium,C10H20O
+Thyroid,3-ethoxy-3-methylbut-1-yne,24426,7740-69-4,-,in vitro,thyroid cancer primary cells,culture medium,C7H12O
+Thyroid,methyl 3-phenylprop-2-enoate,7644,103-26-4,-,in vitro,thyroid cancer primary cells,culture medium,C10H10O2
+Thyroid,diethyl 2-hydroxy-3-methylbutanedioate,582908,-,-,in vitro,thyroid cancer primary cells,culture medium,C9H16O5
+Thyroid,"2,2,3,3-tetramethylhexane",26057,13475-81-5,-,in vitro,thyroid cancer primary cells,culture medium,C10H22
+Thyroid,"2,6-ditert-butyl-4-methylphenol",31404,128-37-0,-,in vitro,thyroid cancer primary cells,culture medium,C15H24O
+Thyroid,"1-methyl-1,2,4-triazole",22459,6086-21-1,-,in vitro,thyroid cancer primary cells,culture medium,C3H5N3
+Thyroid,N-(2-ethylphenyl)formamide,243583,-,-,in vitro,thyroid cancer primary cells,culture medium,C9H11NO
+Thyroid,"1,2-di(propan-2-yl)benzene",11345,25321-09-9,-,in vitro,thyroid cancer primary cells,culture medium,C12 H18
+Thyroid,cyclohexanone,7967,108-94-1,Decrease,in vivo,Breath samples from patients with papillary thyroid carcinoma,Breath samples from healthy individuals,C6H10O
+Thyroid,4-hydroxybutanoic acid,10413,591-81-1,Decrease,in vivo,Breath samples from patients with papillary thyroid carcinoma,Breath samples from healthy individuals,C4H8O3
+Thyroid,phenol,996,108-95-2,Increase,in vivo,Breath samples from patients with papillary thyroid carcinoma,Breath samples from healthy individuals,C6H6O
+Thyroid,"2,2-dimethyldecane",28459,17302-37-3,Decrease,in vivo,Breath samples from patients with papillary thyroid carcinoma,Breath samples from healthy individuals,C12H26
+Thyroid,2-ethylhexan-1-ol,7720,104-76-7,Decrease,in vivo,Breath samples from patients with papillary thyroid carcinoma,Breath samples from healthy individuals,C8H18O
+Thyroid,character(0),-,character(0),Increase,in vivo,Breath samples from patients with papillary thyroid carcinoma,Breath samples from healthy individuals,character(0)
+Thyroid,"1-bromo-2,2,3,3-tetramethyl-1-(3-methylpent-1-ynyl)cyclopropane",600794,-,Increase,in vivo,Breath samples from patients with papillary thyroid carcinoma,Breath samples from healthy individuals,C13H21Br
